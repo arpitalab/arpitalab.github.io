@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to the Upadhyaya Lab!
+### Welcome to the Upadhyaya Lab!
 
 We are part of the [Department of Physics](http://umdphysics.umd.edu/) 
 at the [University of Maryland](http://www.umd.edu/).
