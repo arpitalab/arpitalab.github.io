@@ -8,7 +8,7 @@ body {
   background-color: #515151;
   color: #9a9a9a;
   font-family: "Raleway", Arial, Helvetica, sans-serif;
-  font-size: 12pt;
+  font-size: 13pt;
   font-weight: 300;
   line-height: 1.25;
 }
@@ -37,10 +37,10 @@ body {
   color: #fdfdfd;
 }
 .navbar-default .navbar-text {
-  color: #f6f6f6;
+  color: #d4e0ef;
 }
 .navbar-default .navbar-nav > li > a {
-  color: #f6f6f6;
+  color: #d4e0ef;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
   color: #F36F21;
