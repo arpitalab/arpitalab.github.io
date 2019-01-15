@@ -221,4 +221,62 @@ group: research
 					</div>
 				</div>
 			</section>
+		<!-- Scripts -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+			<script src="js/jquery.fancybox.min.js"></script>
+			<script src="js/skel.min.js"></script>
+			<script src="js/util.js"></script>
+			<script src="js/main.js"></script>
+			<script type="text/javascript">
+		  	$(document).ready(function() {
+		    	$(".fancybox").fancybox();
+		  	});
+			</script>
+			<script>
+			$(function() {
+				$('#showdiv1').click(function() {
+					$('div[id^=div]').hide();
+					$('#div1').show();
+				});
+				$('#showdiv2').click(function() {
+					$('div[id^=div]').hide();
+					$('#div2').show();
+				});
 
+				$('#showdiv3').click(function() {
+					$('div[id^=div]').hide();
+					$('#div3').show();
+				});
+
+				$('#showdiv4').click(function() {
+					$('div[id^=div]').hide();
+					$('#div4').show();
+				});
+				$('#showdiv5').click(function() {
+					$('div[id^=div]').hide();
+					$('#div5').show();
+				});
+				$('#showdiv6').click(function() {
+					$('div[id^=div]').hide();
+					$('#div6').show();
+				});
+				$('#showdiv7').click(function() {
+					$('div[id^=div]').hide();
+					$('#div7').show();
+				});
+				$('#showdiv8').click(function() {
+					$('div[id^=div]').hide();
+					$('#div8').show();
+				});
+			})
+			</script>
+			<script>
+			$(function () {
+    		$("#collapse li").children('ul').hide();
+    		$("#collapse li").on('click', function (event) {
+        		$(this).children('ul').stop().slideToggle(100);
+        		$(this).toggleClass("open");
+        		event.stopPropagation();
+    		});
+			});
+			</script>
