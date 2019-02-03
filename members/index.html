@@ -5,29 +5,29 @@ group: members
 ---
 
 <h1>Upadhyaya Lab Members</h1>
-	<!-- Two -->
-		<section id="two" class="wrapper style1 special">
-			<div class="inner">
-			<div class="flex flex-4">
+<!-- Two -->
+<section id="two" class="wrapper style1 special">
+	<div class="inner">
+		<div class="flex flex-4">
 			{% for person in site.data.members %}
-					<div class="box person">
-						<div class="image round">
-							<div style="display: none;" id="{{person.firstname}}">
-								<h2>{{person.name}}</h2>
-								<p>{{person.description | markdownify}}</p>
-							</div>
-							<a data-fancybox data-src="#{{person.firstname}}" href="javascript:;">
-								<img src="{{person.image}}" alt="" />
-							</a>
+				<div class="box person">
+					<div class="image round">
+						<div style="display: none;" id="{{person.firstname}}">
+							<h2>{{person.name}}</h2>
+							<p>{{person.description | markdownify}}</p>
 						</div>
-						<h3>{{person.name}}</h3>
-						<p>{{person.position}}</p>
-						<p>Ph.D. Mechanical Eng. Purdue</p>
+						<a data-fancybox data-src="#{{person.firstname}}" href="javascript:;">
+						<img src="{{person.image}}" alt="" />
+						</a>
 					</div>
-            			</div>
+					<h3>{{person.name}}</h3>
+					<p>{{person.position}}</p>
+					<p>{{person.degree}}</p>
+				</div>
             		{% endfor %}
-			</div>
-		</section>
+		</div>
+	</div>
+</section>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="js/jquery.fancybox.min.js"></script>
 <script src="js/skel.min.js"></script>
