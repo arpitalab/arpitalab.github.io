@@ -11,7 +11,7 @@ group: members
 		<div class="flex flex-4">
 			{% for person in site.data.members %}
 				<div class="box person">
-					<div class="image">
+					<div class="image round">
 						<div style="display: none;" id="{{person.firstname}}">
 							<h2>{{person.name}}</h2>
 							<p>{{person.description | markdownify}}</p>
