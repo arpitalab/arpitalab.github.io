@@ -1,4 +1,5 @@
 - name: Arpita Upadhyaya
+  firstname: Arpita
   image: /static/img/members/arpita_new.jpg
   position: Principal Investigator
   email: arpitau (at) umd dot edu
@@ -7,6 +8,7 @@
   of Maryland in 2006 with a joint appointment in [Physics] (http://umdphysics.umd.edu) and [Institute for Physical Science and Technology] (http://www.ipst.umd.edu)." 
 
 - name: Altug Ozcelikkale
+  firstname: Altug
   image: /static/img/members/Altug.JPG
   position: Postdoc
   email: lin.liu (at) ucsf.edu
@@ -20,6 +22,7 @@
 												and spilling his love for Star Trek at every occasion."
 
 - name: Brittany Wheatley
+  firstname: Brittany
   image: /static/img/members/brittany.jpg
   position: Postbac
   email: mct.ucsf (at) gmail.com
@@ -35,18 +38,21 @@
 
 
 - name: Kaustubh Wagh
+  firstname: Kaustubh
   image: /static/img/members/kaustubh.jpg
   position: Graduate Student
   email: djohnlee (at) fraserlab.com
   description: "After graduating with a degree in Engineering Physics from IIT Madras, Kaustubh concluded that he liked physics more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he isn't working, Kaustubh enjoys baking and sharing random bits of trivia with anyone within earshot."
 
 - name: Ivan Rey
+  firstname: Ivan
   image: /static/img/members/ivan.jpg
   position: Graduate Student
   email: benjamin.barad (at) gmail.com
   description: "Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a master’s degree on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at University of Maryland in the fall of 2013 and joined our lab a year after. Ivan’s main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells to change shape and regulate many processes. On his free time, Ivan enjoys exploring the forests and jungles in search of animals to capture with his camera."
 
 - name: David Garica
+  firstname: David
   image: /static/img/members/david.jpg
   position: Graduate Student
   email: justin.biel (at) ucsf.edu
