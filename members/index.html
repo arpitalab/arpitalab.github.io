@@ -1,1 +1,41 @@
+---
+title: Upadhyaya Lab Members
+layout: members
+group: members
+---
 
+<h1>Upadhyaya Lab Members</h1>
+			<!-- Two -->
+				<section id="two" class="wrapper style1 special">
+					<div class="inner">
+						{% for person in site.data.members %}
+						<div class="flex flex-4">
+							<div class="box person">
+								<div class="image round">
+									<div style="display: none;" id="person.firstname">
+										<h2>person.name</h2>
+											<p>person.description</p>
+									</div>
+									<a data-fancybox data-src="#person.firstname" href="javascript:;">
+										<img src="person.image" alt="" />
+									</a>
+								</div>
+								<h3>person.name</h3>
+								<p>Postdoc</p>
+								<p>Ph.D. Mechanical Eng. Purdue</p>
+							</div>
+            </div>
+            {% endfor %}
+					</div>
+				</section>
+		<!-- Scripts -->
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+			<script src="js/jquery.fancybox.min.js"></script>
+			<script src="js/skel.min.js"></script>
+			<script src="js/util.js"></script>
+			<script src="js/main.js"></script>
+			<script type="text/javascript">
+		  	$(document).ready(function() {
+		    	$(".fancybox").fancybox();
+		  	});
+</script>
