@@ -12,15 +12,15 @@ group: members
 						<div class="flex flex-4">
 							<div class="box person">
 								<div class="image round">
-									<div style="display: none;" id="person.firstname">
-										<h2>person.name</h2>
-											<p>person.description</p>
+									<div style="display: none;" id="{{person.firstname}}">
+										<h2>{{person.name}}</h2>
+											<p>{{person.description | markdownify}}</p>
 									</div>
-									<a data-fancybox data-src="#person.firstname" href="javascript:;">
-										<img src="person.image" alt="" />
+									<a data-fancybox data-src="#{{person.firstname}}" href="javascript:;">
+										<img src="{{person.image}}" alt="" />
 									</a>
 								</div>
-								<h3>person.name</h3>
+								<h3>{{person.name}}</h3>
 								<p>Postdoc</p>
 								<p>Ph.D. Mechanical Eng. Purdue</p>
 							</div>
