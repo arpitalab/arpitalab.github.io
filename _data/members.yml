@@ -13,7 +13,7 @@
   image: /static/img/members/Altug.JPG
   position: Postdoc
   degree: Ph.D., Purdue
-  email: lin.liu (at) ucsf.edu
+  email: altugoz (at) umd.edu
   scholar: 5kUDcJ0AAAAJ
   description: "Altug Ozcelikkale received his PhD from Purdue University, School of Mechanical Engineering while\ 
 												working on freezing-induced biotransport phenomena in cells and tissues. As a Post-Doctoral Research\ 
@@ -23,11 +23,33 @@
 												Altug enjoys spending time with his family and friends, creating all sorts of computer graphics\
 												and spilling his love for Star Trek at every occasion."
 
+- name: Ivan Rey
+  firstname: Ivan
+  image: /static/img/members/Ivan.JPG
+  position: Graduate Student
+  email: irey (at) umd.edu
+  description: "Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a master’s degree\
+  on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at \
+  University of Maryland in the fall of 2013 and joined our lab a year after.\
+  Ivan’s main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells\
+  to change shape and regulate many processes. On his free time, Ivan enjoys exploring the forests and jungles\
+  in search of animals to capture with his camera."
+  
+  
+- name: David Garica
+  firstname: David
+  image: /static/img/members/David.JPG
+  position: Graduate Student
+  email: dgarciag (at) umd.edu
+  description: ""
+  
+  
+  
 - name: Brittany Wheatley
   firstname: Brittany
   image: /static/img/members/Brittany.JPG
   position: Postbac
-  email: mct.ucsf (at) gmail.com
+  email: badelew (at) terpmail.umd.edu
   description: "Brittany graduated from University of Maryland with a B.S. in Neurobiology and Physiology and
 												minors in Physics and Astronomy. Her work in the lab focuses on two projects. The first explores
 												the effects of nanotopography on the dynamics and organization of cytoskeletal components during
@@ -43,15 +65,14 @@
   firstname: Kaustubh
   image: /static/img/members/Kaustabh.JPG
   position: Graduate Student
-  email: djohnlee (at) fraserlab.com
-  description: "After graduating with a degree in Engineering Physics from IIT Madras, Kaustubh concluded that he liked physics more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he isn't working, Kaustubh enjoys baking and sharing random bits of trivia with anyone within earshot."
+  email: kwagh (at) umd.edu
+  description: "After graduating with a degree in Engineering Physics from IIT Madras, Kaustubh concluded that he liked physics\
+  more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding\
+  the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter\ 
+  proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he isn't working, Kaustubh\
+  enjoys baking and sharing random bits of trivia with anyone within earshot."
 
-- name: Ivan Rey
-  firstname: Ivan
-  image: /static/img/members/Ivan.JPG
-  position: Graduate Student
-  email: benjamin.barad (at) gmail.com
-  description: "Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a master’s degree on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at University of Maryland in the fall of 2013 and joined our lab a year after. Ivan’s main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells to change shape and regulate many processes. On his free time, Ivan enjoys exploring the forests and jungles in search of animals to capture with his camera."
+
 
 - name: Aashli Pathni
   firstname: Aashli
@@ -60,12 +81,7 @@
   email: apathni (at) terpmail dot umd dot edu
   description: "Aashli is from Delhi, India. xx"
   
-- name: David Garica
-  firstname: David
-  image: /static/img/members/David.JPG
-  position: Graduate Student
-  email: justin.biel (at) ucsf.edu
-  description: ""
+
 
 
 # Rotation Students
