@@ -1,72 +1,76 @@
+<!-- TODO this file has become a mess, refactor it -->
 
-<!DOCTYPE html>
+{% if page.bigimg or page.title %}
 
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="{{ site.description }}">
-    <meta name="theme-color" content="#515151">
-    <link href="/static/css/bootstrap.css" rel="stylesheet">
-    <link href="/static/css/jquery.fancybox.min.css" rel="stylesheet">
-    <!-- <link href="/static/css/bootstrap-responsive.css" rel="stylesheet"> -->
-    <link href="/static/css/main.css" rel="stylesheet">
-    <link href="/static/css/syntax.css" rel="stylesheet">
-    <link href="/static/css/custom.css" rel="stylesheet">
-    {% if page.group == 'news' %}
-    <link rel="alternate" type="application/atom+xml" title="Upadhyaya Lab News Feed" href="/news.xml">
-    {% endif %}
-    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+{% if page.bigimg %}
+  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
+    {% for bigimg in page.bigimg %}
+	  {% assign imgnum = forloop.index %}
+	  {% for imginfo in bigimg %}
+	    {% if imginfo[0] %}
+		  data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
+		  data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
+		{% else %}
+		  data-img-src-{{ imgnum }}="{{ imginfo | relative_url }}"
+		{% endif %}
+	  {% endfor %}
+    {% endfor %}
+  ></div>
+{% endif %}
 
-  <body>
-
-<nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #484848;">
-    <div class="d-flex flex-grow-1">
-        <span class="w-100 d-lg-none d-block"><!-- hidden spacer to center brand on mobile --></span>
-        <a class="navbar-brand d-none d-lg-inline-block" href="/">
-            upadhyaya lab
-        </a>
-        <a class="navbar-brand-two mx-auto d-lg-none d-inline-block" href="#">
-            <img src="//placehold.it/40?text=LOGO" alt="logo">
-        </a>
-        <div class="w-100 text-right">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#myNavbar">
-                <span class="navbar-toggler-icon"></span>
-            </button>
+<header class="header-section {% if page.bigimg %}has-img{% endif %}">
+{% if page.bigimg %}
+<div class="big-img intro-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="{{ include.type }}-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+		  {% if page.subtitle %}
+		    {% if include.type == "page" %}
+            <hr class="small">
+            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+			{% else %}
+			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			{% endif %}
+		  {% endif %}
+		  
+		  {% if include.type == "post" %}
+		  <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
+		  {% endif %}
         </div>
+      </div>
     </div>
-    <div class="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar">
-        <ul class="navbar-nav ml-auto flex-nowrap">
-            <li class="nav-item">
-                <a href="/" class="nav-link m-2 menu-item nav-active">home</a>
-            </li>
-            <li class="nav-item">
-                <a href="/research" class="nav-link m-2 menu-item">research</a>
-            </li>
-            <li class="nav-item">
-                <a href="/members" class="nav-link m-2 menu-item">people</a>
-            </li>
-            <li class="nav-item">
-                <a href="/publications" class="nav-link m-2 menu-item">publications</a>
-            </li>
-            <li class="nav-item">
-                <a href="#" class="nav-link m-2 menu-item">teaching</a>
-            </li>
-            <li class="nav-item">
-                <a href="#" class="nav-link m-2 menu-item">news</a>
-            </li>
-            <li class="nav-item">
-                <a href="#" class="nav-link m-2 menu-item">contact</a>
-            </li>
-        </ul>
+  </div>
+  <span class='img-desc'></span>
+</div>
+{% endif %}
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="{{ include.type }}-heading">
+          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
+		  {% if page.subtitle %}
+		    {% if include.type == "page" %}
+            <hr class="small">
+            <span class="{{ include.type }}-subheading">{{ page.subtitle }}</span>
+			{% else %}
+			<h2 class="{{ include.type }}-subheading">{{ page.subtitle }}</h2>
+			{% endif %}
+		  {% endif %}
+		  
+		  {% if include.type == "post" %}
+		  <span class="post-meta">Posted on {{ page.date | date: site.date_format }}</span>
+		  {% endif %}
+        </div>
+      </div>
     </div>
-</nav>
+  </div>
+</div>
+</header>
 
-    <div class="container">
+
+{% else %}
+<div class="intro-header"></div>
+{% endif %}
