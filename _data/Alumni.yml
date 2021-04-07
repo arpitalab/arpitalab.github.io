@@ -1,0 +1,82 @@
+- name: Altug Ozcelikkale, Ph.D.
+  image: /img/members/Alumni/Altug.JPG
+  altimage: /img/members/Alumni/Altug.JPG
+  position: Postdoctoral Fellow
+# email:
+#  scholar:
+#  twitter: ""
+  description: 'Altug Ozcelikkale received his PhD from Purdue University, School of Mechanical Engineering while
+								working on freezing-induced biotransport phenomena in cells and tissues. As a Post-Doctoral Research
+								Associate at Upadhyaya Lab, he worked on mechanosensation in T cell activation
+								including cytoskeletal regulation of traction forces and early signaling as well as
+								mechanoregulation of T cell – cancer cell functional interactions. When he is not doing research,
+								Altug enjoys spending time with his family and friends, creating all sorts of computer graphics
+								and spilling his love for Star Trek at every occasion. Altug is back in Turkey, where is an Assistant Professor in Mechanical Engineering
+                at the Middle East Technical University in Ankara'
+
+- name: Brittany Wheatley
+  image: /img/members/Alumni/Brittany.JPG
+  altimage: /img/members/Alumni/Brittany.JPG
+  position: Postbac student
+#  email:
+#  scholar:
+#  twitter: ""
+  description: 'Brittany graduated from University of Maryland with a B.S. in Neurobiology and Physiology and
+												minors in Physics and Astronomy. Her work in the lab focused on
+												the effects of nanotopography on the dynamics and organization of cytoskeletal components during
+												T cell activation. Outside of the lab Brittany
+												enjoys tending to her many plants, meeting new cats and encouraging her friends and family''s sustainability efforts.
+                        Currently, Brittany is a graduate student in the Biologial and Chemical Sciences at Scripps, Florida studying the structural biology and function of Nonribosomal Peptide Synthetases.'
+- name: Deepak Salem
+  image: /img/members/Alumni/Deep.JPG
+  altimage: /img/members/Alumni/Deep.JPG
+  position: Post-bac Student
+#  email: nrogers2 (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'Deep is at Lake Erie College of Osteopathic Medicine at Seton Hill as a hematologist-in-training.'
+
+- name: Sarah Kerr
+  image: /img/members/kun_sm.jpg
+  altimage: /img/members/kun_sm.jpg
+  position: Undergraduate Student
+#  email: kdo520 (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'Sarah is currently a graduate student at the University of Colorado, in the Department of Physics.'
+
+- name: King Lam Hui
+  image: /img/members/Alumni/King_sm.jpg
+  altimage: /img/members/Alumni/King_sm.jpg
+  position: Graduate Student
+#  email:
+#  scholar:
+#  twitter: ""
+  description: 'King is a postdoctoral fellow in the Niethammer lab at MSKCC studying immune function in zebrafish'
+
+- name: Christy Ketchum
+  image: /img/members/Alumni/Christy_sm.jpg
+  altimage: /img/members/Alumni/Christy_sm.jpg
+  position: Graduate Student
+#  email:
+#  scholar:
+#  twitter: ""
+  description: 'Christy is training to be a Patent Attorney in Munich, Germany'
+
+- name: Mike Azatov
+  image: /img/members/Alumni/Azatov_sm.jpg
+  altimage: /img/members/Alumni/Azatov_sm.jpg
+  position: Graduate Student
+#  email: apathni (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'Mike is living large in Santiago, Chile mining and analyzing player data as a scout for Arsenal (yes, that Arsenal)'
+
+- name: Brian Grooman
+  image: /img/members/Alumni/Brian_sm.jpg
+  altimage: /img/members/Alumni/Brian_sm.jpg
+  position: Graduate Student
+#  email: jcun15 (at) gmail.com
+#  scholar:
+#  twitter: ""
+  description: 'Brian is a scientist at the Applied Physics Laboratory at Johns Hopkins University'
