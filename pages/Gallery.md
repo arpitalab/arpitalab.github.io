@@ -20,3 +20,5 @@ subtitle: Images
   </div>
 </div>
 {% endfor %}
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
