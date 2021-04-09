@@ -1,3 +1,12 @@
+---
+layout: gridlay
+title: Image gallery
+subtitle: Images
+---
+
+# **Assorted images**
+
+
 {% for item in site.data.images %}
 <div class="lightbox" id="lightbox{{ forloop.index }}">
   <div class="table">
