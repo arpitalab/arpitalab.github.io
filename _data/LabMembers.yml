@@ -1,0 +1,103 @@
+- name: Arpita Upadhyaya, Ph.D.
+  image: /img/members/AU_sm.jpg
+  altimage: /img/members/AU_sm.jpg
+  position: Principal Investigator
+  email: arpitau (at) umd.edu
+  scholar: FxHzupAAAAAJ
+  twitter: "arpcomplex"
+# orcid: "orcid.org/0000-0003-3345-5960"
+  description: 'Arpita was an undergraduate at Birla Institute of Technology and Science and obtained her Ph.D. in Physics from the University of
+  Notre Dame with James Glazier. She was then a postdoctoral fellow and a Pappalardo Fellow at MIT working with Alexander Oudenaarden. Arpita joined University
+  of Maryland in 2006 with a joint appointment in [Physics](http://umdphysics.umd.edu) and [Institute for Physical Science and Technology](http://www.ipst.umd.edu).'
+
+- name: Ivan Rey, Ph.D.
+  image: /img/members/IR.jpg
+  altimage: /img/members/IR.jpg
+  position: Postdoctoral Fellow
+  email: irey (at) umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a Masters degree
+  on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at
+  University of Maryland in the fall of 2013 and joined our lab a year after.
+  His main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells
+  to change shape and regulate many processes. On his free time, Ivan enjoys exploring the forests and jungles
+  in search of animals to capture with his camera.'
+
+- name: Mohamad Eftekharjoo
+  image: /img/members/mohamad_sm.jpg
+  altimage: /img/members/mohamad_sm.jpg
+  position: Postdoctoral Fellow
+  email: meftekar (at) umd.edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Kaustabh Wagh
+  image: /img/members/KW.jpg
+  altimage: /img/members/KW.jpg
+  position: Graduate Student
+  email: kwagh (at) umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
+  more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding
+  the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter
+  proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he is not working, Kaustubh
+  enjoys baking and sharing random bits of trivia with anyone within earshot.'
+
+- name: David Garcia
+  image: /img/members/david_sm.jpg
+  altimage: /img/members/david_sm.jpg
+  position: Graduate Student
+  email: dgarciag (at) umd.edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Aashli Pathni
+  image: /img/members/aashli_sm.jpg
+  altimage: /img/members/aashli_sm.jpg
+  position: Graduate Student
+  email: apathni (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Nate Rogers
+  image: /img/members/nate_sm.jpg
+  altimage: /img/members/nate_sm.jpg
+  position: Undergraduate Student
+  email: nrogers2 (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Kun Do
+  image: /img/members/kun_sm.jpg
+  altimage: /img/members/kun_sm.jpg
+  position: Undergraduate Student
+  email: kdo520 (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Jared Cunanan
+  image: /img/members/jared_sm.jpg
+  altimage: /img/members/jared_sm.jpg
+  position: Undergraduate Student
+  email: jcun15 (at) gmail.com
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: We are recruiting!
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student / Postdoctoral Fellow
+  email: your.email (at) wherever.edu
+#  scholar:
+  description: "Interested postdoctoral fellows should e-mail Arpita at arpitau (at) umd.edu with the following information:
+  (i) a summary of their current and past research experiences,
+  (ii) a short statement on the types of projects that they are interested in pursuing in the Upadhyaya Lab,
+  and (iii) contact information for 3 references. Interested and motivated Graduate and Undergraduate students should contact Ryan to talk about potential projects."
