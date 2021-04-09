@@ -4,7 +4,7 @@ title: Image gallery
 subtitle: Images
 ---
 
-# **Assorted images**
+# **Some assorted images**
 
 
 {% for item in site.data.images %}
