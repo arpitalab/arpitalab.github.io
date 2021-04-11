@@ -1,3 +1,15 @@
+- title: Actomyosin dynamics modulate microtubule deformation and growth during T cell activation
+  image: /img/publications/2021_Ivan_MBoC.jpg
+  short: Actomyosin dynamics modulate microtubule deformation
+  year: 2021
+  authors: 'Rey-Suarez I, Rogers N, Kerr S, Shroff H, and ___Upadhyaya A___'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/33826369/
+  pdf: 
+  journal: Molecular Biology of the Cell
+  journalShort: MBoC
+  journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E20-10-0685
+  description: 'Activation of T cells leads to the formation of the immunological synapse (IS) with antigen presenting cells. This requires T cell polarization and coordination between the actomyosin and microtubule cytoskeletons. The interactions between these two cytoskeletal components during T cell activation are not well understood. Here, we elucidate the interactions between microtubules and actin at the IS with high-resolution fluorescence microscopy. We show that microtubule growth dynamics in the peripheral actin-rich region are distinct from those in the central actin-free region. We further demonstrate that these differences arise from differential involvement of Arp2/3- and formin-nucleated actin structures. Formin inhibition results in a moderate decrease in microtubule growth rates, which is amplified in the presence of integrin engagement. In contrast, Arp2/3 inhibition leads to an increase in microtubule growth rates. We find that microtubule filaments are more deformed and exhibit greater shape fluctuations in the periphery of the IS compared to the center. Using small molecule inhibitors, we show that actin dynamics and actomyosin contractility play key roles in defining microtubule deformations and shape fluctuations. Our results indicate a mechanical coupling between the actomyosin and microtubule systems during T cell activation, whereby different actin structures influence microtubule dynamics in distinct ways. '
+
 - title: Power-law behavior of transcription factor dynamics at the single-molecule level implies a continuum affinity model
   image: /img/publications/2019_Garcia_NAR.jpg
   short: Power law dynamics of transcription factor motility
