@@ -5,7 +5,7 @@ subtitle: Upadhyaya Lab Publications
 ---
 
 # **Featured publications**
-#### For a full list of publications see <a href="https://scholar.google.com/citations?user=FxHzupAAAAAJ&hl=en&oi=ao">Google Scholar</a> or <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Upadhyaya+Arpita%5BAuthor%5D%29&sort=date">PubMed</a> or [here](/pages/Publications_full).
+#### For a full list of publications see <a href="https://pubmed.ncbi.nlm.nih.gov/?term=%28Upadhyaya+Arpita%5BAuthor%5D%29&sort=date">PubMed</a> or [here](/pages/Publications_full).
 
 {% for pub in site.data.Featured_publications %}
 <hr>
