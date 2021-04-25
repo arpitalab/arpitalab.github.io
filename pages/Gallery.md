@@ -5,7 +5,7 @@ subtitle: Images
 ---
 
 
-{% include youtube_player.html id="v=6crMBUlrmb0" %}
+{% include youtube_player.html id="6crMBUlrmb0" %}
 
 # **Some assorted images**
 {% for item in site.data.images %}
