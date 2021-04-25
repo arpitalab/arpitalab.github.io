@@ -4,9 +4,10 @@ title: Image gallery
 subtitle: Images
 ---
 
+
+{% include youtubePlayer.html id="v=6crMBUlrmb0" %}
+
 # **Some assorted images**
-
-
 {% for item in site.data.images %}
 <div class="lightbox" id="lightbox{{ forloop.index }}">
   <div class="table">
