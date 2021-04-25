@@ -4,9 +4,9 @@ title: Image gallery
 subtitle: Images
 ---
 
-<div align="center">
+<div align="left">
 	<h3>
-      <strong>Life in the Upadhyaya Lab</strong>
+      <strong>Virtual tour of the Lab</strong>
 	</h3>
 </div>
 {% include youtube_player.html id="6crMBUlrmb0" %}
