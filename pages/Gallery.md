@@ -6,10 +6,10 @@ subtitle: Images
 
 <div align="center">
 	<h3>
-    {% include youtube_player.html id="6crMBUlrmb0" %}
       <strong>Life in the Upadhyaya Lab</strong>
 	</h3>
 </div>
+{% include youtube_player.html id="6crMBUlrmb0" %}
 
 # **Some assorted images**
 {% for item in site.data.images %}
