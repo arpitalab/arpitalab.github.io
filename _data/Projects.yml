@@ -10,9 +10,10 @@
   cell interface. We use live cell and super-resolution imaging combined with quantitative image
   analysis and biophysical models to elucidate the molecular mechanisms that link T cell signaling
   and cytoskeletal dynamics. We have recently demonstrated that dynamic microtubules regulate actin
-  assembly with the interface ([Hui and Upadhyaya, 2017](https://pubmed.ncbi.nlm.nih.gov/28490501/), Rey-Suarez et al. 2021).
-  We are now developing methods to optogenetically perturb T cell actin dynamics
-  to dissect the signaling pathways that control cytoskeletal dynamics during this process.'
+  assembly with the interface ([Hui and Upadhyaya, 2017](https://pubmed.ncbi.nlm.nih.gov/28490501/), Rey-Suarez et al. 2021). We use super-resolution imaging methods 
+  (e.g. instant Structured Illumination Microscopy) and quantitative image analysis to uncover the molecular basis of the crosstalk between the actin and microtubule 
+  cytoskeletons during T cell activation ([Rey-Suarez et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33826369/)). We are also developing methods to optogenetically perturb 
+  T cell actin dynamics to dissect the signaling pathways that control cytoskeletal dynamics during this process.'
 
 - name: Immune receptor dynamics
   image: /img/research/BCR_dynamics.jpg
@@ -24,7 +25,7 @@
   as binding of cell surface receptors to extracellular ligand. These molecular scale events lead
   to cooperative behavior at the mesoscale such as aggregation into macromolecular complexes and
   emergence of larger scale cellular responses.
-  How these different scales are linked is an open question in the field. Mobility of single cell
+  How these different scales are linked is an open question. Mobility of single cell
   surface molecules can provide insight into their biochemical state, the physical properties of
   their microenvironment and the forces acting on them. Our work has shown that lateral mobility of
   ligands is an important parameter regulating microcluster formation and signaling threshold in B lymphocytes
@@ -58,13 +59,13 @@
   More recently we have shown a
   surprising and hitherto unknown role for microtubule filament dynamics in T cell force generation
   ([Hui and Upadhyaya, 2017](https://pubmed.ncbi.nlm.nih.gov/28490501/)), and that the interaction between the actin and microtubule cytoskeletons
-  is essential for optimum force balance in cells. We are currently using super-resolution imaging methods
-  (e.g. instant Structured Illumination Microscopy) to study actin/microtubule interactions and elucidate
-  studying the biophysical and molecular mechanisms that mediate them.
-
-  Given the importance of dynamic force application in
+  is essential for optimum force balance in cells. Our ongoing work explores the biophysical mechanisms of force generation in T cells, its molecular regulation and  
+  functional impact. We are currently interested in understanding how cytokine signaling regulates cellular force 
+  generation in cytotoxic T cells and how this regulation affects their cytotoxic potential. Given the importance of dynamic force application in
   T cell activation, we are also interested in quantifying the statistics of force fluctuations during signaling and how they arise from  active forcing by
-  the cytoskeleton.'
+  the cytoskeleton.
+  
+  '
 
 
 
