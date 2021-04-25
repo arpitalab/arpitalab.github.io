@@ -5,10 +5,10 @@ subtitle: Images
 ---
 
 <div align="center">
-	<h1>
+	<h3>
     {% include youtube_player.html id="6crMBUlrmb0" %}
-		<strong>Life in the Upadhyaya Lab</strong>
-	</h1>
+      <strong>Life in the Upadhyaya Lab</strong>
+	</h3>
 </div>
 
 # **Some assorted images**
