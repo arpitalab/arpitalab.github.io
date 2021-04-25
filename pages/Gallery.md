@@ -4,8 +4,12 @@ title: Image gallery
 subtitle: Images
 ---
 
-
-{% include youtube_player.html id="6crMBUlrmb0" %}
+<div align="center">
+	<h1>
+    {% include youtube_player.html id="6crMBUlrmb0" %}
+		<strong>Life in the Upadhyaya Lab</strong>
+	</h1>
+</div>
 
 # **Some assorted images**
 {% for item in site.data.images %}
