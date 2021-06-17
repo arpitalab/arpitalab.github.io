@@ -1,3 +1,12 @@
+- name: David Garcia
+  image: /img/members/David.jpg
+  altimage: /img/members/David.jpg
+  position: Graduate Student
+  email: dgarciag (at) umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'David is moving on to Management Consulting at BCG'
+
 - name: Altug Ozcelikkale, Ph.D.
   image: /img/members/Alumni/Altug.JPG
   altimage: /img/members/Alumni/Altug.JPG
