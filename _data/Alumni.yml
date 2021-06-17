@@ -5,7 +5,16 @@
   email: dgarciag (at) umd.edu
 #  scholar:
 #  twitter: ""
-  description: 'David is moving on to Management Consulting at BCG'
+  description: 'David is moving on to Management Consulting at BCG.'
+  
+  - name: Nate Rogers
+  image: /img/members/nate_sm.jpg
+  altimage: /img/members/nate_sm.jpg
+  position: Undergraduate Student
+  email: nrogers2 (at) terpmail.umd.edu
+#  scholar:
+#  twitter: ""
+  description: 'Nate is starting graduate school in Biophysics at Michigan.'
 
 - name: Altug Ozcelikkale, Ph.D.
   image: /img/members/Alumni/Altug.JPG
