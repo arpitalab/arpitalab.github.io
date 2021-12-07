@@ -1,3 +1,27 @@
+- title: Multiview confocal super-resolution microscopy
+  image: 
+  short: Multiview confocal super-resolution microscopy
+  year: 2021
+  authors: 'Wu, Y...., ___Upadhyaya A___, ... Shroff, H'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/34837071/
+  pdf: 
+  journal: Nature
+  journalShort: Nature
+  journalLink: https://www.nature.com/articles/s41586-021-04110-0
+  description: 'Confocal microscopy1 remains a major workhorse in biomedical optical microscopy owing to its reliability and flexibility in imaging various samples, but suffers from substantial point spread function anisotropy, diffraction-limited resolution, depth-dependent degradation in scattering samples and volumetric bleaching2. Here we address these problems, enhancing confocal microscopy performance from the sub-micrometre to millimetre spatial scale and the millisecond to hour temporal scale, improving both lateral and axial resolution more than twofold while simultaneously reducing phototoxicity. We achieve these gains using an integrated, four-pronged approach: (1) developing compact line scanners that enable sensitive, rapid, diffraction-limited imaging over large areas; (2) combining line-scanning with multiview imaging, developing reconstruction algorithms that improve resolution isotropy and recover signal otherwise lost to scattering; (3) adapting techniques from structured illumination microscopy, achieving super-resolution imaging in densely labelled, thick samples; (4) synergizing deep learning with these advances, further improving imaging speed, resolution and duration. We demonstrate these capabilities on more than 20 distinct fixed and live samples, including protein distributions in single cells; nuclei and developing neurons in Caenorhabditis elegans embryos, larvae and adults; myoblasts in imaginal disks of Drosophila wings; and mouse renal, oesophageal, cardiac and brain tissues.'
+
+- title: Phase separation in transcription factor dynamics and chromatin organization
+  image: 
+  short: Condensates modify transcription factor dynamics
+  year: 2021
+  authors: 'Wagh KS, Garca DA, and ___Upadhyaya A___'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/34303933/
+  pdf: 
+  journal: Current Opinion in Structural Biology
+  journalShort: COSB
+  journalLink: https://www.sciencedirect.com/science/article/abs/pii/S0959440X21000932?via%3Dihub
+  description: 'Studies over the past decade have highlighted the key role of liquid-liquid phase separation in cellular organization and function. Dynamic compartmentalization of transcription factors and coactivators by such phase-separated condensates regulates the assembly of transcriptional machinery at genomic loci. Although rapid advances in microscopy have demonstrated the ubiquity of such condensates, a rigorous characterization of the physics of phase separation in transcription remains to be carried out. In this review, we discuss theoretical and experimental evidence for biomolecular condensates as dynamic regulators of transcription. Looking beyond, we highlight functional consequences for transcription factor dynamics and gene expression and discuss potential pitfalls of misclassifying biomolecular condensates as liquid droplets in the absence of a rigorous physical description.'
+  
 - title: Actomyosin dynamics modulate microtubule deformation and growth during T cell activation
   image: /img/publications/2021_Ivan_MBoC.jpg
   short: Actomyosin dynamics modulate microtubule deformation
