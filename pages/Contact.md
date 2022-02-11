@@ -24,7 +24,7 @@ subtitle: Upadhyaya Lab Contact
     </div>
     <div class="col-sm-6">
     	<h3>Funding Sources</h3>
-    	<p class="text-justify">The Upadhyaya Lab has funding from the National Institutes for General Medical Sciences and through the National Science Foundation's Physics of Living Systems Program.</p>
+    	<p class="text-justify">The Upadhyaya Lab has funding from the National Institutes for General Medical Sciences and through the National Science Foundation's Physics of Living Systems and Transitions to Excellence in Molecular and Cellular Biosciences Research Programs.</p>
     	<img height = "125px" vspace="0px" hspace="0px" src="/img/funding.svg" alt="Funding Sources">
     </div>
 </div>
