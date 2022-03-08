@@ -1,0 +1,59 @@
+I"{<h1 id="resources"><strong>Resources</strong></h1>
+
+<hr />
+
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id="ArchR" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.archrproject.com/"><img src="/img/resources/ArchR.jpg" alt="ArchR" /></a>
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>ArchR</h5>
+    	<p>ArchR is a full-featured R package for processing and analyzing single-cell ATAC-seq data. ArchR provides the most extensive suite of scATAC-seq analysis tools of any software available. Additionally, ArchR excels in both speed and resource usage, making it possible to analyze 1 million cells in 8 hours on a MacBook Pro laptop. ArchR is currently in beta. You can find everything you need on our <a href="https://www.archrproject.com/">website</a> or in the <a href="https://www.biorxiv.org/content/10.1101/2020.04.28.066498v1">publication</a>.</p>
+
+    </div>
+</div>
+
+<hr />
+
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id="Omni-ATAC" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.ncbi.nlm.nih.gov/pubmed/28846090"><img src="/img/resources/OmniATAC.jpg" alt="Omni-ATAC" /></a>
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>Omni-ATAC</h5>
+    	<p>Omni-ATAC is a carefully optimized ATAC-seq method that provides improvements on data quality, cost, and generalizability. It works on every cell type that we have tested, from cell lines to flash frozen tissues. The original protocol can be found as <a href="/pdfs/OmniATAC_Protocol.pdf">Supplementary Protocol 1</a> of Corces et al. Nature Methods 2017 and an <strong>updated protocol for nuclei isolation from frozen tissue</strong> can be found <a href="https://www.protocols.io/view/isolation-of-nuclei-from-frozen-tissue-for-atac-se-6t8herw">on protocols.io</a>.</p>
+
+    </div>
+</div>
+
+<hr />
+
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id="Human Brain scATAC-seq" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.biorxiv.org/content/10.1101/2020.01.06.896159v1.full"><img src="/img/resources/Brain-scATAC.jpg" alt="Human Brain scATAC-seq" /></a>
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>Human Brain scATAC-seq</h5>
+    	<p>Data from our 2020 publication on human brain scATAC-seq, HiChIP, and bulk ATAC-seq is publicly available through <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147672">GEO</a>. This data comes from cognitively healthy individuals. We have also set up a WashU Epigenome Browser <a href="http://epigenomegateway.wustl.edu/legacy/?genome=hg38&amp;session=drS3o1n4kJ">track hub of cell type-specific chromatin accessibility</a>.</p>
+
+    </div>
+</div>
+
+<hr />
+
+<!-- The paddingtop and margin-top edits allow anchors to link properly. -->
+<div id="TCGA ATAC-seq" class="row" style="padding-top: 60px; margin-top: -60px;">
+    <div class="col-sm-4">
+    	<a href="https://www.ncbi.nlm.nih.gov/pubmed/30361341"><img src="/img/resources/TCGA-ATAC.jpg" alt="TCGA ATAC-seq" /></a>
+    </div>
+    <div class="col-sm-8" style="text-align: justify">
+    	<h5>TCGA ATAC-seq</h5>
+    	<p>Data in the form of aligned hg38 BAM files from our 2018 collaboration with The Cancer Genome Atlas are available through the <a href="https://portal.gdc.cancer.gov/">Genomic Data Commons Data Portal</a> with approved access requested through <a href="https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs000178.v11.p8">dbGaP</a>. Select processed files including bigwigs, counts matrices, and cancer type-specific peak calls are available through the <a href="https://gdc.cancer.gov/about-data/publications/ATACseq-AWG">TCGA publication page</a>.</p>
+
+    </div>
+</div>
+
+:ET
