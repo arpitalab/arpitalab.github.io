@@ -6,7 +6,25 @@
 #  scholar:
 #  twitter: ""
   description: 'David is moving on to Management Consulting at BCG.'
-  
+
+  - name: Jared Cunanan
+    image: /img/members/jared_sm.jpg
+    altimage: /img/members/jared_sm.jpg
+    position: Undergraduate Student
+    email: jcun15 (at) gmail.com
+  #  scholar:
+  #  twitter: ""
+    description: ''
+
+- name: Kun Do
+  image: /img/members/kun_sm.jpg
+  altimage: /img/members/kun_sm.jpg
+  position: Undergraduate Student
+  email: kdo520 (at) terpmail dot umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
 - name: Nate Rogers
   image: /img/members/nate_sm.jpg
   altimage: /img/members/nate_sm.jpg

@@ -1,63 +1,75 @@
 - title: Multiview confocal super-resolution microscopy
-  image: 
+  image:
   short: Multiview confocal super-resolution microscopy
   year: 2021
   authors: 'Wu Y, Han X, Su Y, Glidewell, M,..., Rey-Suarez I,...___Upadhyaya A___,..., La Riviere P and Shroff H'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34837071/
-  pdf: 
+  pdf:
   journal: Nature
   journalShort: Nature
   journalLink: https://www.nature.com/articles/s41586-021-04110-0
   description: 'Confocal microscopy remains a major workhorse in biomedical optical microscopy owing to its reliability and flexibility in imaging various samples, but suffers from substantial point spread function anisotropy, diffraction-limited resolution, depth-dependent degradation in scattering samples and volumetric bleaching2. Here we address these problems, enhancing confocal microscopy performance from the sub-micrometre to millimetre spatial scale and the millisecond to hour temporal scale, improving both lateral and axial resolution more than twofold while simultaneously reducing phototoxicity. We achieve these gains using an integrated, four-pronged approach: (1) developing compact line scanners that enable sensitive, rapid, diffraction-limited imaging over large areas; (2) combining line-scanning with multiview imaging, developing reconstruction algorithms that improve resolution isotropy and recover signal otherwise lost to scattering; (3) adapting techniques from structured illumination microscopy, achieving super-resolution imaging in densely labelled, thick samples; (4) synergizing deep learning with these advances, further improving imaging speed, resolution and duration. We demonstrate these capabilities on more than 20 distinct fixed and live samples, including protein distributions in single cells; nuclei and developing neurons in Caenorhabditis elegans embryos, larvae and adults; myoblasts in imaginal disks of Drosophila wings; and mouse renal, oesophageal, cardiac and brain tissues.'
 
+  - title: WASp is crucial for the unique architecture of the immunological synapse in germinal center B-cells
+  image:
+  short:
+  year: 2021
+  authors: 'Li Y, Bhanja A, ___Upadhyaya A___, Zhao X, and Song W'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/34195186/
+  pdf: /pdfs/Upadhyaya_FCDB_2021.pdf
+  journal: Frontiers in Cell and Developmental Biology
+  journalShort: FCDB
+  journalLink: https://www.frontiersin.org/articles/10.3389/fcell.2021.646077/full
+  description: 'B-cells undergo somatic hypermutation and affinity maturation in germinal centers. Somatic hypermutated germinal center B-cells (GCBs) compete to engage with and capture antigens on follicular dendritic cells. Recent studies show that when encountering membrane antigens, GCBs generate actin-rich pod-like structures with B-cell receptor (BCR) microclusters to facilitate affinity discrimination. While deficiencies in actin regulators, including the Wiskott-Aldrich syndrome protein (WASp), cause B-cell affinity maturation defects, the mechanism by which actin regulates BCR signaling in GBCs is not fully understood. Using WASp knockout (WKO) mice that express Lifeact-GFP and live-cell total internal reflection fluorescence imaging, this study examined the role of WASp-mediated branched actin polymerization in the GCB immunological synapse. After rapid spreading on antigen-coated planar lipid bilayers, GCBs formed microclusters of phosphorylated BCRs and proximal signaling molecules at the center and the outer edge of the contact zone. The centralized signaling clusters localized at actin-rich GCB membrane protrusions. WKO reduced the centralized micro-signaling clusters by decreasing the number and stability of F-actin foci supporting GCB membrane protrusions. The actin structures that support the spreading membrane also appeared less frequently and regularly in WKO than in WT GCBs, which led to reductions in both the level and rate of GCB spreading and antigen gathering. Our results reveal essential roles for WASp in the generation and maintenance of unique structures for GCB immunological synapses.'
+
 - title: Phase separation in transcription factor dynamics and chromatin organization
-  image: 
+  image:
   short: Condensates modify transcription factor dynamics
   year: 2021
   authors: 'Wagh KS, Garcia DA, and ___Upadhyaya A___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34303933/
-  pdf: 
+  pdf:
   journal: Current Opinion in Structural Biology
   journalShort: COSB
   journalLink: https://www.sciencedirect.com/science/article/abs/pii/S0959440X21000932?via%3Dihub
   description: 'Studies over the past decade have highlighted the key role of liquid-liquid phase separation in cellular organization and function. Dynamic compartmentalization of transcription factors and coactivators by such phase-separated condensates regulates the assembly of transcriptional machinery at genomic loci. Although rapid advances in microscopy have demonstrated the ubiquity of such condensates, a rigorous characterization of the physics of phase separation in transcription remains to be carried out. In this review, we discuss theoretical and experimental evidence for biomolecular condensates as dynamic regulators of transcription. Looking beyond, we highlight functional consequences for transcription factor dynamics and gene expression and discuss potential pitfalls of misclassifying biomolecular condensates as liquid droplets in the absence of a rigorous physical description.'
-  
+
 - title: Actomyosin dynamics modulate microtubule deformation and growth during T cell activation
   image: /img/publications/2021_Ivan_MBoC.jpg
   short: Actomyosin dynamics modulate microtubule deformation
   year: 2021
   authors: 'Rey-Suarez I, Rogers N, Kerr S, Shroff H, and ___Upadhyaya A___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/33826369/
-  pdf: 
+  pdf:
   journal: Molecular Biology of the Cell
   journalShort: MBoC
   journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E20-10-0685
   description: 'Activation of T cells leads to the formation of the immunological synapse (IS) with antigen presenting cells. This requires T cell polarization and coordination between the actomyosin and microtubule cytoskeletons. The interactions between these two cytoskeletal components during T cell activation are not well understood. Here, we elucidate the interactions between microtubules and actin at the IS with high-resolution fluorescence microscopy. We show that microtubule growth dynamics in the peripheral actin-rich region are distinct from those in the central actin-free region. We further demonstrate that these differences arise from differential involvement of Arp2/3- and formin-nucleated actin structures. Formin inhibition results in a moderate decrease in microtubule growth rates, which is amplified in the presence of integrin engagement. In contrast, Arp2/3 inhibition leads to an increase in microtubule growth rates. We find that microtubule filaments are more deformed and exhibit greater shape fluctuations in the periphery of the IS compared to the center. Using small molecule inhibitors, we show that actin dynamics and actomyosin contractility play key roles in defining microtubule deformations and shape fluctuations. Our results indicate a mechanical coupling between the actomyosin and microtubule systems during T cell activation, whereby different actin structures influence microtubule dynamics in distinct ways. '
 
 - title: Bidirectional feedback between BCR signaling and actin cytoskeletal dynamics
-  image: 
+  image:
   short: Feedback between BCR signaling and actin dynamics
   year: 2021
   authors: 'Bhanja A, Rey-Suarez I, and ___Upadhyaya A___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34124846/
-  pdf: 
+  pdf:
   journal: FEBS Journal
   journalShort: FEBS J
-  journalLink: 
+  journalLink:
   description: 'When B cells are exposed to antigens, they use their B cell receptors (BCRs) to transduce this external signal into internal signaling cascades and uptake antigen, which activate transcriptional programs. Signaling activation requires complex cytoskeletal remodeling initiated by BCR signaling. The actin cytoskeletal remodeling drives B cell morphological changes, such as spreading, protrusion, contraction, and endocytosis of antigen by mechanical forces, which in turn affect BCR signaling. Therefore, the relationship between the actin cytoskeleton and BCR signaling is a two-way feedback loop. These morphological changes represent the indirect ways by which the actin cytoskeleton regulates BCR signaling. Recent studies using high spatiotemporal resolution microscopy techniques have revealed that actin also can directly influence BCR signaling. Cortical actin networks directly affect BCR mobility, not only during the resting stage by serving as diffusion barriers, but also at its activation stage by altering BCR diffusivity through enhanced actin flow velocities. Furthermore, the actin cytoskeleton along with myosin enable B cells to sense the physical properties of its environment and generate and transmit forces through the BCR. Consequently, the actin cytoskeleton modulates the signaling threshold of BCR to antigenic stimulation. This review discusses the latest research on the relationship between BCR signaling and actin remodeling, and the research techniques. Exploration of the role of actin in BCR signaling will expand the fundamental understanding of the relationship between cell signaling and the cytoskeleton and the mechanisms underlying cytoskeleton related immune disorders and cancer.'
-  
+
 - title: Three-dimensional residual channel attention networks denoise and sharpen fluorescence microscopy image volumes
-  image: 
-  short: 
+  image:
+  short:
   year: 2021
   authors: 'Chen J, Sasaki H, Lai H, Su Y, Liu J, Wu Y, Zhovmer A, Combs CA, Rey-Suarez I, Chang H-Y, Huang C-C, Li X, Guo M, Nizambad S, ___Upadhyaya A___, Lee S-J, Lucas LAG, and Shroff H'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/34059829/
-  pdf: 
+  pdf:
   journal: Nature Methods
   journalShort: Nat. Meth.
   journalLink: https://www.nature.com/articles/s41592-021-01155-x
   description: 'We demonstrate residual channel attention networks (RCAN) for the restoration and enhancement of volumetric time-lapse (four-dimensional) fluorescence microscopy data. First we modify RCAN to handle image volumes, showing that our network enables denoising competitive with three other state-of-the-art neural networks. We use RCAN to restore noisy four-dimensional super-resolution data, enabling image capture of over tens of thousands of images (thousands of volumes) without apparent photobleaching. Second, using simulations we show that RCAN enables resolution enhancement equivalent to, or better than, other networks. Third, we exploit RCAN for denoising and resolution improvement in confocal microscopy, enabling ~2.5-fold lateral resolution enhancement using stimulated emission depletion microscopy ground truth. Fourth, we develop methods to improve spatial resolution in structured illumination microscopy using expansion microscopy data as ground truth, achieving improvements of ~1.9-fold laterally and ~3.6-fold axially. Finally, we characterize the limits of denoising and resolution enhancement, suggesting practical benchmarks for evaluation and further enhancement of network performance.'
-  
+
 - title: Mechanical regulation of transcription - Recent advances
   image: /img/publications/2019_Garcia_NAR.jpg
   short: Mechanical regulation of transcription

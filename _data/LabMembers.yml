@@ -8,7 +8,7 @@
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'Arpita was an undergraduate at Birla Institute of Technology and Science and obtained her Ph.D. in Physics from the University of
   Notre Dame with James Glazier. She was then a postdoctoral fellow and a Pappalardo Fellow at MIT working with Alexander Oudenaarden. Arpita joined University
-  of Maryland in 2006 with a joint appointment in [Physics](http://umdphysics.umd.edu) and [Institute for Physical Science and Technology](http://www.ipst.umd.edu). 
+  of Maryland in 2006 with a joint appointment in [Physics](http://umdphysics.umd.edu) and [Institute for Physical Science and Technology](http://www.ipst.umd.edu).
   In her (non-existent) spare time, Arpita is an avid photographer and loves hiking.'
 
 - name: Ivan Rey, Ph.D.
@@ -51,25 +51,25 @@
   image: /img/members/aashli_sm.jpg
   altimage: /img/members/aashli_sm.jpg
   position: Graduate Student
-  email: apathni (at) terpmail.umd.edu
+  email: apathni (at) terpmail dot umd dot edu
 #  scholar:
 #  twitter: ""
   description: ''
 
-- name: Kun Do
-  image: /img/members/kun_sm.jpg
-  altimage: /img/members/kun_sm.jpg
-  position: Undergraduate Student
-  email: kdo520 (at) terpmail.umd.edu
+- name: Vishavdeep Vashisht
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: vishav24 (at) umd dot edu
 #  scholar:
 #  twitter: ""
   description: ''
 
-- name: Jared Cunanan
-  image: /img/members/jared_sm.jpg
-  altimage: /img/members/jared_sm.jpg
-  position: Undergraduate Student
-  email: jcun15 (at) gmail.com
+- name: Frank Fazekas
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: ffazekas (at) umd dot edu
 #  scholar:
 #  twitter: ""
   description: ''
