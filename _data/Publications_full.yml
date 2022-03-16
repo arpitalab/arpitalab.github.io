@@ -1,3 +1,15 @@
+- title: Cytotoxic T Lymphocyte Activation Signals Modulate Cytoskeletal Dynamics and Mechanical Force Generation
+  image:
+  short: Cytokine modulation of CTL effector function
+  year: 2022
+  authors: 'Pathni A, Ozcelikkale A, Rey-Suarez I, Li L, Davis S, Rogers N, Xiao Z, and ___Upadhyaya A___'
+  pubmed: 
+  pdf:
+  journal: Frontiers in Immunology
+  journalShort: Frontiers in Immunology
+  journalLink: https://www.frontiersin.org/articles/10.3389/fimmu.2022.779888/full
+  description: 'Cytotoxic T lymphocytes (CTLs) play an integral role in the adaptive immune response by killing infected cells. Antigen presenting cells (APCs), such as dendritic cells, present pathogenic peptides to the T cell receptor on the CTL surface and co-stimulatory signals required for complete activation. Activated CTLs secrete lytic granules containing enzymes that trigger target cell death at the CTL-target contact, also known as the immune synapse (IS). The actin and microtubule cytoskeletons are instrumental in the killing of CTL targets. Lytic granules are transported along microtubules to the IS, where granule secretion is facilitated by actin depletion and recovery. Furthermore, actomyosin contractility promotes target cell death by mediating mechanical force exertion at the IS. Recent studies have shown that inflammatory cytokines produced by APCs, such as interleukin-12 (IL-12), act as a third signal for CTL activation and enhance CTL proliferation and effector function. However, the biophysical mechanisms mediating such enhanced effector function remain unclear. We hypothesized that the third signal for CTL activation, IL-12, modulates cytoskeletal dynamics and force exertion at the IS, thus potentiating CTL effector function. Here, we used live cell total internal reflection fluorescence (TIRF) microscopy to study actomyosin and microtubule dynamics at the IS of murine primary CTLs activated in the presence of peptide-MHC and co-stimulation alone (two signals), or additionally with IL-12 (three signals). We found that three signal-activated CTLs have altered actin flows, myosin dynamics and microtubule growth rates as compared to two signal-activated CTLs. We further showed that lytic granules in three-signal activated CTLs are less clustered and have lower velocities than in two-signal activated CTLs. Finally, we used traction force microscopy to show that three signal-activated CTLs exert greater traction forces than two signal-activated CTLs. Our results demonstrate that activation of CTLs in the presence of IL-12 leads to differential modulation of the cytoskeleton, thereby augmenting the mechanical response of CTLs to their targets. This indicates a potential physical mechanism via which the third signal can enhance the CTL response.'
+  
 - title: Multiview confocal super-resolution microscopy
   image:
   short: Multiview confocal super-resolution microscopy
