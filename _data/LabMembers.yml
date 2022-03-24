@@ -66,13 +66,17 @@
   description: ''
 
 - name: Frank Fazekas
-  image: /img/members/NewMember.jpg
-  altimage: /img/members/NewMember.jpg
+  image: /img/members/frank_sm.jpg
+  altimage: /img/members/frank_sm.jpg
   position: Graduate Student
   email: ffazekas (at) umd dot edu
 #  scholar:
 #  twitter: ""
-  description: ''
+  description: 'Originally from Ann Arbor, Michigan, Frank graduated from Yale University in 2019 with a B.S. in Physics. 
+  He then spent two years as a postbac research assistant at the University of Michigan under the guidance of Sarah Veatch. 
+  Frank joined the UMD Biophysics PhD program in the fall of 2021 and the Upadhyaya lab a few months later. His primary research interests 
+  lie in understanding the dynamics of cytoskeletal networks and in single molecule biophysics generally. Outside the lab, he most enjoys 
+  engaging himself in a good novel, particularly in the fantasy and science fiction genres.'
 
 - name: We are recruiting!
   image: /img/members/NewMember.jpg
