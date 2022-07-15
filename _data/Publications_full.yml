@@ -1,3 +1,15 @@
+- title: Nanotopography modulates cytoskeletal organization and dynamics during T cell activation
+  image:
+  short: Nanotopography modulates T cell activation
+  year: 2022
+  authors: 'Wheatley B, Rey-Suarez I, Hourwitz MJ, Kerr S, Shroff H, Fourkas JT, and ___Upadhyaya A___'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/35830602/
+  pdf:
+  journal: Molecular Biology of the Cell
+  journalShort: MBoC
+  journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E21-12-0601?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+  description: 'Exposure to MHC-antigen complexes on the surface of antigen presenting cells (APCs) activates T cells, inducing the formation of the immune synapse (IS). Antigen detection at the APC surface is thus a critical step in the adaptive immune response. The physical properties of antigen presenting surfaces encountered by T cells in vivo are believed to modulate T cell activation and proliferation. Although stiffness and ligand mobility influence IS formation, the effect of the complex topography of the APC surface on this process is not well understood. Here, we investigate how nanotopography modulates cytoskeletal dynamics and signaling during the early stages of T cell activation using high-resolution fluorescence microscopy on nanofabricated surfaces with parallel nanoridges of different spacings. We find that although nanoridges reduce the maximum spread area as compared to cells on flat surfaces, the ridges enhance the accumulation of actin and the signaling kinase ZAP-70 at the IS. Actin polymerization is more dynamic in the presence of ridges, which influence the directionality of both actin flows and microtubule growth. Our results demonstrate that the topography of the activating surface exerts both global effects on T cell morphology and local changes in actin and microtubule dynamics, collectively influencing T cell signaling.'
+
 - title: Cytotoxic T Lymphocyte Activation Signals Modulate Cytoskeletal Dynamics and Mechanical Force Generation
   image:
   short: Cytokine modulation of CTL effector function
@@ -12,7 +24,7 @@
 
 - title: The glucocorticoid receptor associates with the cohesin loader NIPBL to promote long-range gene regulation
   image:
-  short: 
+  short:
   year: 2022
   authors: 'Rinaldi L, Fettweis G, Garcia DA,..., ___Upadhyaya A___,... and Hager GL'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35353576/
@@ -21,7 +33,7 @@
   journalShort: Sci. Adv.
   journalLink: https://www.science.org/doi/10.1126/sciadv.abj8360
   description: 'The cohesin complex is central to chromatin looping, but mechanisms by which these long-range chromatin interactions are formed and persist remain unclear. We demonstrate that interactions between a transcription factor (TF) and the cohesin loader NIPBL regulate enhancer-dependent gene activity. Using mass spectrometry, genome mapping, and single-molecule tracking methods, we demonstrate that the glucocorticoid (GC) receptor (GR) interacts with NIPBL and the cohesin complex at the chromatin level, promoting loop extrusion and long-range gene regulation. Real-time single-molecule experiments show that loss of cohesin markedly diminishes the concentration of TF molecules at specific nuclear confinement sites, increasing TF local concentration and promoting gene regulation. Last, patient-derived acute myeloid leukemia cells harboring cohesin mutations exhibit a reduced response to GCs, suggesting that the GR-NIPBL-cohesin interaction is defective in these patients, resulting in poor response to GC treatment.'
-  
+
 - title: Multiview confocal super-resolution microscopy
   image:
   short: Multiview confocal super-resolution microscopy
