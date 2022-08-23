@@ -10,6 +10,30 @@
   journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E21-12-0601?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
   description: 'Exposure to MHC-antigen complexes on the surface of antigen presenting cells (APCs) activates T cells, inducing the formation of the immune synapse (IS). Antigen detection at the APC surface is thus a critical step in the adaptive immune response. The physical properties of antigen presenting surfaces encountered by T cells in vivo are believed to modulate T cell activation and proliferation. Although stiffness and ligand mobility influence IS formation, the effect of the complex topography of the APC surface on this process is not well understood. Here, we investigate how nanotopography modulates cytoskeletal dynamics and signaling during the early stages of T cell activation using high-resolution fluorescence microscopy on nanofabricated surfaces with parallel nanoridges of different spacings. We find that although nanoridges reduce the maximum spread area as compared to cells on flat surfaces, the ridges enhance the accumulation of actin and the signaling kinase ZAP-70 at the IS. Actin polymerization is more dynamic in the presence of ridges, which influence the directionality of both actin flows and microtubule growth. Our results demonstrate that the topography of the activating surface exerts both global effects on T cell morphology and local changes in actin and microtubule dynamics, collectively influencing T cell signaling.'
 
+- title: "Stripe" transcription factors provide accessibility to co-binding partners in mammalian genomes
+  image:
+  short: "Stripe" transcription factors provide accessibility to co-binding partners in mammalian genomes
+  year: 2022
+  authors: 'Zhao Y,...,___Upadhyaya A___, Weirauch MT, Hager GL, and Casellas R'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/35863348/
+  pdf:
+  journal: Molecular Cell
+  journalShort: Mol. Cell
+  journalLink: https://www.sciencedirect.com/science/article/abs/pii/S1097276522006128?via%3Dihub
+  description: 'Regulatory elements activate promoters by recruiting transcription factors (TFs) to specific motifs. Notably, TF-DNA interactions often depend on cooperativity with colocalized partners, suggesting an underlying cis-regulatory syntax. To explore TF cooperativity in mammals, we analyze ∼500 mouse and human primary cells by combining an atlas of TF motifs, footprints, ChIP-seq, transcriptomes, and accessibility. We uncover two TF groups that colocalize with most expressed factors, forming stripes in hierarchical clustering maps. The first group includes lineage-determining factors that occupy DNA elements broadly, consistent with their key role in tissue-specific transcription. The second one, dubbed universal stripe factors (USFs), comprises ∼30 SP, KLF, EGR, and ZBTB family members that recognize overlapping GC-rich sequences in all tissues analyzed. Knockouts and single-molecule tracking reveal that USFs impart accessibility to colocalized partners and increase their residence time. Mammalian cells have thus evolved a TF superfamily with overlapping DNA binding that facilitate chromatin accessibility.'
+
+- title: Non-Muscle Myosin II Is Essential for the Negative Regulation of B-Cell Receptor Signaling and B-Cell Activation
+  image:
+  short:
+  year: 2022
+  authors: 'Seeley-Fallen MK, Lazzaro M, Liu C, Li Q-Z, ___Upadhyaya A___, Zhao X, and Song W'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/35493485/
+  pdf: /pdfs/Upadhyaya_FCDB_2021.pdf
+  journal: Frontiers in Immunology
+  journalShort: FI
+  journalLink: https://www.frontiersin.org/articles/10.3389/fimmu.2022.842605/full
+  description: 'Antigen (Ag)-triggered B-cell receptor (BCR) signaling initiates antibody responses. However, prolonged or uncontrolled BCR signaling is associated with the development of self-reactive B-cells and autoimmune diseases. We previously showed that actin-mediated B-cell contraction on Ag-presenting surfaces negatively regulates BCR signaling. Non-muscle myosin II (NMII), an actin motor, is involved in B-cell development and antibody responses by mediating B-cell migration, cytokinesis, and Ag extraction from Ag-presenting cells. However, whether and how NMII regulates humoral responses through BCR signaling remains elusive. Utilizing a B-cell-specific, partial NMIIA knockout (cIIAKO) mouse model and NMII inhibitors, this study examined the role of NMII in BCR signaling. Upon BCR binding to antibody-coated planar lipid bilayers (PLB), NMIIA was recruited to the B-cell contact membrane and formed a ring-like structure during B-cell contraction. NMII recruitment depended on phosphatidylinositol 5-phosphatase (SHIP1), an inhibitory signaling molecule. NMII inhibition by cIIAKO did not affect B-cell spreading on PLB but delayed B-cell contraction and altered BCR clustering. Surface BCR "cap" formation induced by soluble stimulation was enhanced in cIIAKO B-cells. Notably, NMII inhibition by cIIAKO and inhibitors up-regulated BCR signaling in response to both surface-associated and soluble stimulation, increasing phosphorylated tyrosine, CD79a, BLNK, and Erk and decreasing phosphorylated SHIP1. While cIIAKO did not affect B-cell development, the number of germinal center B-cells was significantly increased in unimmunized cIIAKO mice, compared to control mice. While cIIAKO mice mounted similar antibody responses when compared to control mice upon immunization, the percentages of high-affinity antibodies, Ag-specific germinal center B-cells and isotype switched B-cells were significantly lower in cIIAKO mice than in control mice. Furthermore, autoantibody levels were elevated in cIIAKO mice, compared to control mice. Collectively, our results reveal that NMII exerts a B-cell-intrinsic inhibition on BCR signaling by regulating B-cell membrane contraction and surface BCR clustering, which curtails the activation of non-specific and self-reactive B-cells.'
+
 - title: Cytotoxic T Lymphocyte Activation Signals Modulate Cytoskeletal Dynamics and Mechanical Force Generation
   image:
   short: Cytokine modulation of CTL effector function
