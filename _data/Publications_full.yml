@@ -10,9 +10,9 @@
   journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E21-12-0601?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
   description: 'Exposure to MHC-antigen complexes on the surface of antigen presenting cells (APCs) activates T cells, inducing the formation of the immune synapse (IS). Antigen detection at the APC surface is thus a critical step in the adaptive immune response. The physical properties of antigen presenting surfaces encountered by T cells in vivo are believed to modulate T cell activation and proliferation. Although stiffness and ligand mobility influence IS formation, the effect of the complex topography of the APC surface on this process is not well understood. Here, we investigate how nanotopography modulates cytoskeletal dynamics and signaling during the early stages of T cell activation using high-resolution fluorescence microscopy on nanofabricated surfaces with parallel nanoridges of different spacings. We find that although nanoridges reduce the maximum spread area as compared to cells on flat surfaces, the ridges enhance the accumulation of actin and the signaling kinase ZAP-70 at the IS. Actin polymerization is more dynamic in the presence of ridges, which influence the directionality of both actin flows and microtubule growth. Our results demonstrate that the topography of the activating surface exerts both global effects on T cell morphology and local changes in actin and microtubule dynamics, collectively influencing T cell signaling.'
 
-- title: "Stripe" transcription factors provide accessibility to co-binding partners in mammalian genomes
+- title: Stripe transcription factors provide accessibility to co-binding partners in mammalian genomes
   image:
-  short: "Stripe" transcription factors provide accessibility to co-binding partners in mammalian genomes
+  short: Stripe transcription factors provide accessibility to co-binding partners in mammalian genomes
   year: 2022
   authors: 'Zhao Y,...,___Upadhyaya A___, Weirauch MT, Hager GL, and Casellas R'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35863348/
@@ -24,7 +24,7 @@
 
 - title: Non-Muscle Myosin II Is Essential for the Negative Regulation of B-Cell Receptor Signaling and B-Cell Activation
   image:
-  short:
+  short: NMMII regulates B-Cell activation and signaling
   year: 2022
   authors: 'Seeley-Fallen MK, Lazzaro M, Liu C, Li Q-Z, ___Upadhyaya A___, Zhao X, and Song W'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/35493485/
