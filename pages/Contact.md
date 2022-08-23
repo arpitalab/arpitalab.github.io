@@ -12,7 +12,7 @@ subtitle: Upadhyaya Lab Contact
     	<img src="/img/university-maryland-physical-sciences-complex-oculus.jpg" alt="UMD Physical Sceinces Complex">
     </div>
     <div class="col-sm-8">
-        <p class="text-justify">The <b>Upadhyaya Lab</b> is located in the <b>Physical Sciences Complex</b> at the <b>Univesity of Maryland Campus</b>.</p>
+        <p class="text-justify">The <b>Upadhyaya Lab</b> is located in the <b>Physical Sciences Complex</b> at the <b>University of Maryland Campus</b>.</p>
         <hr>
         <p class="text-justify">If you are a postdoctoral fellow interested in interviewing, a graduate student interested in rotating, or a motivated undergraduate student looking to have an in-depth research experience, <a href="mailto:arpitau@umd.edu">send Arpita an email</a> to set up a time to talk about potential projects. Potential postdoctoral fellows should include (i) a summary of their current and past research experiences, (ii) a short statement on the types of projects that they are interested in pursuing in the Upadhyaya Lab, and (iii) contact information for 3 references.</p>
     </div>
