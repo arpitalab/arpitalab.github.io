@@ -2,7 +2,7 @@
   image: /img/research/Montage_MYL9_Actin.png
   altimage: /img/research/Montage_MYL9_Actin.png
   person: Aashli Pathni, Mohamad Eftekharjoo, Vishavdeep Vashisht, Matthew Connell, Frank Fazekas
-  funding: NIH
+  funding: NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'T cell activation by antigen-presenting cells involves extensive changes
   in the actin and microtubule cytoskeletons. Cytoskeletal dynamics lead to the reorganization
@@ -13,7 +13,7 @@
   assembly with the interface ([Hui and Upadhyaya, 2017](https://pubmed.ncbi.nlm.nih.gov/28490501/)). We use super-resolution imaging methods
   (e.g. instant Structured Illumination Microscopy, in collaboration with [Dr. Hari Shroff at NIBIB](https://www.nibib.nih.gov/labs-at-nibib/high-resolution-optical-imaging-hroi)) and quantitative image analysis to uncover the molecular basis of the crosstalk between the actin and microtubule
   cytoskeletons during T cell activation ([Rey-Suarez et al. 2021](https://pubmed.ncbi.nlm.nih.gov/33826369/)). We are also developing methods to optogenetically perturb
-  T cell actin dynamics to dissect the signaling pathways that control cytoskeletal dynamics during this process. We work in collaboration with the [Papoian group at UMD] (http://papoian.chem.umd.edu/) to develop active matter based models of cytoskeletal dynamics to gain a biophysical understanding of the origins and functional implications of these processes.'
+  T cell actin dynamics to dissect the signaling pathways that control cytoskeletal dynamics during this process. We work in collaboration with the [Papoian group at UMD](http://papoian.chem.umd.edu/) to develop active matter based models of cytoskeletal dynamics to gain a biophysical understanding of the origins and functional implications of these processes.'
 
 - name: Immune receptor dynamics
   image: /img/research/BCR_dynamics.jpg
@@ -45,7 +45,7 @@
   image: /img/research/mboc_traction.png
   altimage: /img/research/mboc_traction.png
   person: Aashli Pathni, Vishavdeep Vashisht
-  funding: NIH
+  funding: NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'A number of studies have shown that signaling by single and ensembles of T/B cell
   receptors are sensitive to externally applied forces. However, in the body, these forces have to
@@ -71,7 +71,7 @@
   image: /img/research/nucleus_stress_xmission_stiff.png
   altimage: /img/research/nucleus_stress_xmission_stiff.png
   person: Kaustubh Wagh
-  funding: NCI/UMD Cancer Partnership
+  funding: NSF Transitions, NIH MIRA, NCI/UMD Cancer Partnership
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'The molecular and biophysical mechanisms by which the physical environment
   influences cell fate and behavior are open questions in the field. Beyond the modulation of
