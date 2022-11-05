@@ -1,10 +1,22 @@
+- title: A tug of war between filament treadmilling and myosin induced contractility generates actin rings
+  image: /img/publications/Qin_eLife.png
+  short: Molecular tug-of-war generates actin rings in T cells
+  year: 2022
+  authors: 'Ni Q, Wagh K, Pathni A, Ni H, Vashisht V, ___Upadhyaya A___ and Papoian G'
+  pubmed:
+  pdf:
+  journal: eLife
+  journalShort: eLife
+  journalLink: https://elifesciences.org/articles/82658
+  description: 'In most eukaryotic cells, actin filaments assemble into a shell-like actin cortex under the plasma membrane, controlling cellular morphology, mechanics, and signaling. The actin cortex is highly polymorphic, adopting diverse forms such as the ring-like structures found in podosomes, axonal rings, and immune synapses. The biophysical principles that underlie the formation of actin rings and cortices remain unknown. Using a molecular simulation platform, called MEDYAN, we discovered that varying the filament treadmilling rate and myosin concentration induces a finite size phase transition in actomyosin network structures. We found that actomyosin networks condense into clusters at low treadmilling rates or high myosin concentration but form ring-like or cortex-like structures at high treadmilling rates and low myosin concentration. This mechanism is supported by our corroborating experiments on live T cells, which exhibit ring-like actin networks upon activation by stimulatory antibody. Upon disruption of filament treadmilling or enhancement of myosin activity, the pre-existing actin rings are disrupted into actin clusters or collapse towards the network center respectively. Our analyses suggest that the ring-like actin structure is a preferred state of low mechanical energy, which is, importantly, only reachable at sufficiently high treadmilling rates.'
+
 - title: Actomyosin dynamics modulate microtubule deformation and growth during T cell activation
   image: /img/publications/Ivan_MBoC.JPG
   short: Actomyosin dynamics modulate microtubule deformation
   year: 2021
   authors: 'Rey-Suarez I, Rogers N, Kerr S, Shroff H, and ___Upadhyaya A___'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/33826369/
-  pdf: 
+  pdf:
   journal: Molecular Biology of the Cell
   journalShort: MBoC
   journalLink: https://www.molbiolcell.org/doi/10.1091/mbc.E20-10-0685
