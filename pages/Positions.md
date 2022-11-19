@@ -7,7 +7,7 @@ subtitle: Upadhyaya Lab Postions
 # **Join Us**
 <hr>
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
-<h3>Postdoctoral position available</h3>
+<h3>Postdoctoral position available!</h3>
 <hr>
 <div class="row" style="padding-top: 60px; margin-top: -60px;">
     <div class="col-sm-4">
