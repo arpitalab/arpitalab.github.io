@@ -1,3 +1,15 @@
+- title: Three-dimensional structured illumination microscopy with enhanced axial resolution
+  image:
+  short: 3D SIM
+  year: 2023
+  authors: 'Li X, ..., La Rivere P, ___Upadhyaya A___ and Shroff H'
+  pubmed:
+  pdf:
+  journal: Nat. Biotechnology
+  journalShort: Nat. Biotech
+  journalLink: https://www.nature.com/articles/s41587-022-01651-1
+  description: 'The axial resolution of three-dimensional structured illumination microscopy (3D SIM) is limited to ∼300 nm. Here we present two distinct, complementary methods to improve axial resolution in 3D SIM with minimal or no modification to the optical system. We show that placing a mirror directly opposite the sample enables four-beam interference with higher spatial frequency content than 3D SIM illumination, offering near-isotropic imaging with ∼120-nm lateral and 160-nm axial resolution. We also developed a deep learning method achieving ∼120-nm isotropic resolution. This method can be combined with denoising to facilitate volumetric imaging spanning dozens of timepoints. We demonstrate the potential of these advances by imaging a variety of cellular samples, delineating the nanoscale distribution of vimentin and microtubule filaments, observing the relative positions of caveolar coat proteins and lysosomal markers and visualizing cytoskeletal dynamics within T cells in the early stages of immune synapse formation.'
+
 - title: A tug of war between filament treadmilling and myosin induced contractility generates actin rings
   image:
   short: Molecular tug-of-war generates actin rings in T cells
