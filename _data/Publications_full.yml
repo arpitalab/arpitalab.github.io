@@ -1,3 +1,15 @@
+- title: Dynamic switching of transcriptional regulators between two distinct low-mobility chromatin states
+  image:
+  short: TF switching
+  year: 2023
+  authors: 'Wagh KS, Stavreva DA, Jensen RAM, Paakinaho V, Fettweis G, Schiltz RL, Wustner D, Mandrup S , Presman DM, ___Upadhyaya A___ and Hager GL'
+  pubmed:
+  pdf:
+  journal: Science Advances
+  journalShort: Sci. Adv.
+  journalLink: DOI: 10.1126/sciadv.ade1122
+  description: 'How chromatin dynamics relate to transcriptional activity remains poorly understood. Using single-molecule tracking, coupled with machine learning, we show that histone H2B and multiple chromatin-bound transcriptional regulators display two distinct low-mobility states. Ligand activation results in a marked increase in the propensity of steroid receptors to bind in the lowest-mobility state. Mutational analysis revealed that interactions with chromatin in the lowest-mobility state require an intact DNA binding domain and oligomerization domains. These states are not spatially separated as previously believed, but individual H2B and bound-TF molecules can dynamically switch between them on time scales of seconds. Single bound-TF molecules with different mobilities exhibit different dwell time distributions, suggesting that the mobility of TFs is intimately coupled with their binding dynamics. Together, our results identify two unique and distinct low-mobility states that appear to represent common pathways for transcription activation in mammalian cells.'
+
 - title: Three-dimensional structured illumination microscopy with enhanced axial resolution
   image:
   short: 3D SIM
