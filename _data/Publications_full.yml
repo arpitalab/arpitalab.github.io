@@ -1,3 +1,15 @@
+- title: Transcription factor dynamics: One molecule at a time
+  image:
+  short: TF switching
+  year: 2023
+  authors: 'Wagh KS, Stavreva DA, ___Upadhyaya A___ and Hager GL'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/37540844/
+  pdf:
+  journal: Annual Reviews of Cell and Developmental Biology
+  journalShort: ARCDB
+  journalLink: https://www.annualreviews.org/doi/10.1146/annurev-cellbio-022823-013847
+  description: 'Cells must tightly regulate their gene expression programs and yet rapidly respond to acute biochemical and biophysical cues within their environment. This information is transmitted to the nucleus through various signaling cascades, culminating in the activation or repression of target genes. Transcription factors (TFs) are key mediators of these signals, binding to specific regulatory elements within chromatin. While live-cell imaging has conclusively proven that TF–chromatin interactions are highly dynamic, how such transient interactions can have long-term impacts on developmental trajectories and disease progression is still largely unclear. In this review, we summarize our current understanding of the dynamic nature of TF functions, starting with a historical overview of early live-cell experiments. We highlight key factors that govern TF dynamics and how TF dynamics, in turn, affect downstream transcriptional bursting. Finally, we conclude with open challenges and emerging technologies that will further our understanding of transcriptional regulation.'
+
 - title: Dynamic switching of transcriptional regulators between two distinct low-mobility chromatin states
   image:
   short: TF switching
