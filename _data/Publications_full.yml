@@ -7,7 +7,7 @@
   pdf:
   journal: Science Advances
   journalShort: Sci. Adv.
-  journalLink: DOI: 10.1126/sciadv.ade1122
+  journalLink: https://www.science.org/doi/10.1126/sciadv.ade1122
   description: 'How chromatin dynamics relate to transcriptional activity remains poorly understood.
   Using single-molecule tracking, coupled with machine learning, we show that histone H2B and multiple
   chromatin-bound transcriptional regulators display two distinct low-mobility states. Ligand activation
