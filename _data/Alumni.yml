@@ -29,42 +29,42 @@
   image: /img/members/nate_sm.jpg
   altimage: /img/members/nate_sm.jpg
   position: Undergraduate Student
-  email: nrogers2 (at) terpmail.umd.edu
+  email: 
 #  scholar:
 #  twitter: ""
   description: 'Nate is in graduate school in Biophysics at Michigan in the Veatch lab.'
 
-  - name: Ivan Rey, Ph.D.
-    image: /img/members/IR.jpg
-    altimage: /img/members/IR.jpg
-    position: Postdoctoral Fellow
-    email: irey (at) umd.edu
+- name: Ivan Rey, Ph.D.
+  image: /img/members/IR.jpg
+  altimage: /img/members/IR.jpg
+  position: Postdoctoral Fellow
+  email:
   #  scholar:
   #  twitter: ""
-    description: 'Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a Masters degree
+  description: 'Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a Masters degree
     on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at
     University of Maryland in the fall of 2013 and joined our lab a year after.
     His main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells
     to change shape and regulate many processes. In his free time, Ivan enjoys exploring the forests and jungles
     in search of animals to capture with his camera. Ivan is currently a Research Associate at UniAndes in Bogota.'
 
-  - name: Mohamad Eftekharjoo
-    image: /img/members/mohamad_sm.jpg
-    altimage: /img/members/mohamad_sm.jpg
-    position: Postdoctoral Fellow
-    email: meftekar (at) umd.edu
+- name: Mohamad Eftekharjoo
+  image: /img/members/mohamad_sm.jpg
+  altimage: /img/members/mohamad_sm.jpg
+  position: Postdoctoral Fellow
+  email:
   #  scholar:
   #  twitter: ""
-    description: ''
+  description: ''
 
-  - name: Kaustabh Wagh
-    image: /img/members/KW.jpg
-    altimage: /img/members/KW.jpg
-    position: Graduate Student
-    email: kwagh (at) umd.edu
+- name: Kaustabh Wagh
+  image: /img/members/KW.jpg
+  altimage: /img/members/KW.jpg
+  position: Graduate Student
+  email:
   #  scholar:
   #  twitter: ""
-    description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
+  description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
     more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding
     the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter
     proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he is not working, Kaustubh
