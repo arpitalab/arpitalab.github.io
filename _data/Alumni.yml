@@ -32,7 +32,44 @@
   email: nrogers2 (at) terpmail.umd.edu
 #  scholar:
 #  twitter: ""
-  description: 'Nate is starting graduate school in Biophysics at Michigan.'
+  description: 'Nate is in graduate school in Biophysics at Michigan in the Veatch lab.'
+
+  - name: Ivan Rey, Ph.D.
+    image: /img/members/IR.jpg
+    altimage: /img/members/IR.jpg
+    position: Postdoctoral Fellow
+    email: irey (at) umd.edu
+  #  scholar:
+  #  twitter: ""
+    description: 'Ivan is from Villavicencio, Colombia. He studied Physics and then obtained a Masters degree
+    on Biomedical Sciences both at Universidad de Los Andes in Bogota. Ivan joined the Biophysics PhD program at
+    University of Maryland in the fall of 2013 and joined our lab a year after.
+    His main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells
+    to change shape and regulate many processes. In his free time, Ivan enjoys exploring the forests and jungles
+    in search of animals to capture with his camera. Ivan is currently a Research Associate at UniAndes in Bogota.'
+
+  - name: Mohamad Eftekharjoo
+    image: /img/members/mohamad_sm.jpg
+    altimage: /img/members/mohamad_sm.jpg
+    position: Postdoctoral Fellow
+    email: meftekar (at) umd.edu
+  #  scholar:
+  #  twitter: ""
+    description: ''
+
+  - name: Kaustabh Wagh
+    image: /img/members/KW.jpg
+    altimage: /img/members/KW.jpg
+    position: Graduate Student
+    email: kwagh (at) umd.edu
+  #  scholar:
+  #  twitter: ""
+    description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
+    more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding
+    the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter
+    proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he is not working, Kaustubh
+    enjoys baking and sharing random bits of trivia with anyone within earshot. Kaustubh is a postdoctoral fellow in the Laboratory for
+    Receptor Biology and Gene Expression at NCI/NIH.'
 
 - name: Altug Ozcelikkale, Ph.D.
   image: /img/members/Alumni/Altug.JPG
