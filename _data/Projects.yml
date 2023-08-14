@@ -1,7 +1,7 @@
 - name: Cytoskeletal dynamics and signaling in T cells
   image: /img/research/Montage_MYL9_Actin.png
   altimage: /img/research/Montage_MYL9_Actin.png
-  person: Aashli Pathni, Mohamad Eftekharjoo, Vishavdeep Vashisht, Matthew Connell, Frank Fazekas
+  person: Aashli Pathni, Vishavdeep Vashisht, Matthew Connell, Frank Fazekas, Mikayla Griener, Kiet Nguyen
   funding: NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'T cell activation by antigen-presenting cells involves extensive changes
@@ -44,7 +44,7 @@
 - name: Mechanosensing and force generation in T cells
   image: /img/research/mboc_traction.png
   altimage: /img/research/mboc_traction.png
-  person: Aashli Pathni, Vishavdeep Vashisht
+  person: Aashli Pathni
   funding: NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'A number of studies have shown that signaling by single and ensembles of T/B cell
@@ -63,15 +63,13 @@
   functional impact. We are currently interested in understanding how cytokine signaling regulates cellular force
   generation in cytotoxic T cells and how this regulation affects their cytotoxic potential. Given the importance of dynamic force application in
   T cell activation, we are also interested in quantifying the statistics of force fluctuations during signaling and how they arise from  active forcing by
-  the cytoskeleton.
-
-  '
+  the cytoskeleton.'
 
 - name: Mechanotransduction and gene expression
   image: /img/research/nucleus_stress_xmission_stiff.png
   altimage: /img/research/nucleus_stress_xmission_stiff.png
-  person: Kaustubh Wagh
-  funding: NSF Transitions, NIH MIRA, NCI/UMD Cancer Partnership
+  person: Vishavdeep Vashisht
+  funding: NSF Transitions, NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'The molecular and biophysical mechanisms by which the physical environment
   influences cell fate and behavior are open questions in the field. Beyond the modulation of
