@@ -20,6 +20,15 @@
 #  twitter: ""
   description: ''
 
+- name: Matthew Connell
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: mconnel3 (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
 - name: Vishavdeep Vashisht
   image: /img/members/vishavdeep_sm.jpg
   altimage: /img/members/vishavdeep_sm.jpg
@@ -44,6 +53,33 @@
   lie in understanding the dynamics of cytoskeletal networks and in single molecule biophysics generally. Outside the lab, he most enjoys
   engaging himself in a good novel, particularly in the fantasy and science fiction genres.'
 
+- name: Matthew Connell
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: mconnel3 (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Mikayla Greiner
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: mgreiner (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Kiet Nguyen
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: kietln (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+  
 - name: We are recruiting!
   image: /img/members/NewMember.jpg
   altimage: /img/members/NewMember.jpg
