@@ -70,6 +70,15 @@
 #  scholar:
 #  twitter: ""
   description: ''
+
+- name: Aurelia Moses
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: amoses5 (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
   
 - name: We are recruiting!
   image: /img/members/NewMember.jpg
