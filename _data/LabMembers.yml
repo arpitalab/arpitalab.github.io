@@ -54,13 +54,15 @@
   description: ''
 
 - name: Mikayla Greiner
-  image: /img/members/NewMember.jpg
+  image: /img/members/mikayla_sm.jpg
   altimage: /img/members/NewMember.jpg
   position: Graduate Student
   email: mgreiner (at) umd dot edu
 #  scholar:
 #  twitter: ""
-  description: ''
+  description: 'Mikayla is a second-year graduate student from San Antonio, Texas. After graduating from Trinity University in 2022 with a B.S. in Applied Physics, 
+  she joined the UMD Biophysics progam and the Upadhyaya Lab a few months after.  Currently, her research focuses on the role of the intermediate filament vimentin in T-cell activation. 
+  Outside of the lab, she enjoys reading, drawing, and hiking.'
 
 - name: Kiet Nguyen
   image: /img/members/NewMember.jpg
