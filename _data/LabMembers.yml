@@ -81,6 +81,24 @@
 #  scholar:
 #  twitter: ""
   description: ''
+
+- name: Elizabeth Kiely
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Graduate Student
+  email: ekiely (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
+
+- name: Shankar Sivarajan
+  image: /img/members/NewMember.jpg
+  altimage: /img/members/NewMember.jpg
+  position: Postdoc
+  email: ssivaraj (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
   
 - name: We are recruiting!
   image: /img/members/NewMember.jpg
