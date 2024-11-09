@@ -52,7 +52,7 @@
   image:
   short: N-WASP and BCR signaling
   year: 2023
-  authors: 'Bhanja A, Seeley-Fallen M, Lazzaro M, ___Upadhyaya A___ and Song W'
+  authors: 'Bhanja A, Seeley-Fallen M, Lazzaro M, ___Upadhyaya A*___ and Song W*'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/38085658/
   pdf:
   journal: eLife
@@ -64,7 +64,7 @@
   image:
   short: TF switching
   year: 2023
-  authors: 'Wagh KS, Stavreva DA, ___Upadhyaya A___ and Hager GL'
+  authors: 'Wagh KS, Stavreva DA, ___Upadhyaya A*___ and Hager GL*'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/37540844/
   pdf:
   journal: Annual Reviews of Cell and Developmental Biology
@@ -76,7 +76,7 @@
   image:
   short: TF switching
   year: 2023
-  authors: 'Wagh KS, Stavreva DA, Jensen RAM, Paakinaho V, Fettweis G, Schiltz RL, Wustner D, Mandrup S , Presman DM, ___Upadhyaya A___ and Hager GL'
+  authors: 'Wagh KS, Stavreva DA, Jensen RAM, Paakinaho V, Fettweis G, Schiltz RL, Wustner D, Mandrup S , Presman DM, ___Upadhyaya A*___ and Hager GL*'
   pubmed: https://pubmed.ncbi.nlm.nih.gov/37315128/
   pdf:
   journal: Science Advances
@@ -110,7 +110,7 @@
   image:
   short: Molecular tug-of-war generates actin rings in T cells
   year: 2022
-  authors: 'Ni Q, Wagh K, Pathni A, Ni H, Vashisht V, ___Upadhyaya A___ and Papoian G'
+  authors: 'Ni Q, Wagh K, Pathni A, Ni H, Vashisht V, ___Upadhyaya A*___ and Papoian G*'
   pubmed:
   pdf:
   journal: eLife
@@ -266,7 +266,7 @@
   image: /img/publications/2019_Garcia_NAR.jpg
   short: Power law dynamics of transcription factor motility
   year: 2021
-  authors: 'Garica DA, Fettweis GJ, Presman DM, Paakinaho V, Jarzynski C, ___Upadhyaya A___, and Hager GL'
+  authors: 'Garica DA, Fettweis GJ, Presman DM, Paakinaho V, Jarzynski C, ___Upadhyaya A*___, and Hager GL*'
   pubmed:
   pdf: /pdfs/Upadhyaya_NAR_2021.pdf
   journal: Nucleic Acids Research
@@ -278,7 +278,7 @@
   image: /img/publications/David_MolCell.jpg
   short: IDR mediated confinement regulates transcription factor motility
   year: 2021
-  authors: 'Garica DA, Johnson TA, Presman DM, Fettweis G, Wagh KS, Rinaldo, L, Stavreva DA, Paakinaho V, Jensen RAM, Mandrup S, ___Upadhyaya A___, and Hager GL'
+  authors: 'Garica DA, Johnson TA, Presman DM, Fettweis G, Wagh KS, Rinaldo, L, Stavreva DA, Paakinaho V, Jensen RAM, Mandrup S, ___Upadhyaya A*___, and Hager GL*'
   pubmed:
   pdf: /pdfs/Upadhyaya_MolCell_2021.pdf
   journal: Molecular Cell
@@ -315,7 +315,7 @@
   description: 'We combined instant structured illumination microscopy (iSIM) with total internal reflection fluorescence microscopy (TIRFM) in an approach referred to as instant TIRF-SIM, thereby improving the lateral spatial resolution of TIRFM to 115 ± 13 nm without compromising speed, and enabling imaging frame rates up to 100 Hz over hundreds of time points. We applied instant TIRF-SIM to multiple live samples and achieved rapid, high-contrast super-resolution imaging close to the coverslip surface.'
 
 - title: Remarkable structural transformations of actin bundles are driven by their initial polarity, motor activity, crosslinking, and filament treadmilling
-  authors: 'Chandrasekaran A, ___Upadhyaya A___, and Papoian GA'
+  authors: 'Chandrasekaran A, ___Upadhyaya A*___, and Papoian GA*'
   journal: PLoS Computational Biology
   journalShort: PLoS Comp. Biol.
   journalLink: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007156
