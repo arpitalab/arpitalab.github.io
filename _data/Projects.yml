@@ -1,7 +1,7 @@
 - name: Cytoskeletal dynamics and signaling in T cells
   image: /img/research/Montage_MYL9_Actin.png
   altimage: /img/research/Montage_MYL9_Actin.png
-  person: Aashli Pathni, Vishavdeep Vashisht, Matthew Connell, Frank Fazekas, Mikayla Griener, Kiet Nguyen
+  person: Aashli Pathni, Vishavdeep Vashisht, Matthew Connell, Frank Fazekas, Mikayla Griener, Kiet Nguyen, Elizabeth Kiely
   funding: NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'T cell activation by antigen-presenting cells involves extensive changes
@@ -44,8 +44,8 @@
 - name: Mechanosensing and force generation in T cells
   image: /img/research/mboc_traction.png
   altimage: /img/research/mboc_traction.png
-  person: Aashli Pathni
-  funding: NIH MIRA
+  person: Aashli Pathni, Mikayla Greiner, Elizabeth Kiely
+  funding: NIH MIRA, NSF GRFP
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'A number of studies have shown that signaling by single and ensembles of T/B cell
   receptors are sensitive to externally applied forces. However, in the body, these forces have to
@@ -68,7 +68,7 @@
 - name: Mechanotransduction and gene expression
   image: /img/research/nucleus_stress_xmission_stiff.png
   altimage: /img/research/nucleus_stress_xmission_stiff.png
-  person: Vishavdeep Vashisht
+  person: Vishavdeep Vashisht, Shankar Sivarajan, Matthew Connell
   funding: NSF Transitions, NIH MIRA
 # orcid: "orcid.org/0000-0003-3345-5960"
   description: 'The molecular and biophysical mechanisms by which the physical environment
