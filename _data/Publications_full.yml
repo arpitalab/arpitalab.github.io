@@ -1,3 +1,29 @@
+- title: The glucocorticoid receptor potentiates aldosterone-induced
+          transcription by the mineralocorticoid receptor
+  image:
+  short: GR-MR interaction
+  year: 2024
+  authors: 'Johnson TA,.... ___Upadhyaya A___, Hager GL and de la Rosa DA'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/38995113/
+  pdf:
+  journal: PNAS
+  journalShort: PNAS
+  journalLink: https://doi.org/10.1073/pnas.2413737121
+  description: 'The glucocorticoid and mineralocorticoid receptors (GR and MR, respectively) have 
+                distinct, yet overlapping physiological and pathophysiological functions. There are indications 
+                that both receptors interact functionally and physically, but the precise role of 
+                this interdependence is poorly understood. Here, we analyzed the impact of GR coexpression on 
+                MR genome-wide transcriptional responses and chromatin binding upon activation by aldosterone and 
+                glucocorticoids, both physiological ligands of this receptor.
+                Transcriptional responses of MR in the absence of GR result in fewer regulated genes.
+                In contrast, coexpression of GR potentiates MR-mediated transcription, particularly in 
+                response to aldosterone, both in cell lines and the more physiologically relevant model 
+                of mouse colon organoids. MR chromatin binding is altered by GR coexpression in a 
+                locus- and ligand-specific way. Single-molecule tracking of MR suggests that the presence 
+                of GR contributes to productive binding of MR/aldosterone complexes to chromatin. 
+                Together, our data indicate that coexpression of GR potentiates aldosterone-mediated
+                MR transcriptional activity, even in the absence of glucocorticoids.'
+  
 - title: Mechanical regulation of lymphocyte activation and function
   image:
   short: Mechanotransductionn in T cells
