@@ -14,7 +14,7 @@
 - name: Aashli Pathni
   image: /img/members/Aashli_smJPG.JPG
   altimage: /img/members/Aashli_sm.JPG
-  position: Graduate Student
+  position: Postdoc
   email: apathni (at) terpmail dot umd dot edu
 #  scholar:
 #  twitter: ""
@@ -87,15 +87,6 @@
   altimage: /img/members/NewMember.jpg
   position: Graduate Student
   email: ekiely (at) umd dot edu
-#  scholar:
-#  twitter: ""
-  description: ''
-
-- name: Shankar Sivarajan
-  image: /img/members/Shankar_sm.JPG
-  altimage: /img/members/NewMember.jpg
-  position: Postdoc
-  email: ssivaraj (at) umd dot edu
 #  scholar:
 #  twitter: ""
   description: ''
