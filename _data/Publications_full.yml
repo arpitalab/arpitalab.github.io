@@ -1,3 +1,37 @@
+- title: Nuclear morphology and chromatin organization modulate T cell cytoskeletal remodeling and immune synapse formation
+  image:
+  short: Nuclear deformation during T cell activation
+  year: 2025
+  authors: 'Rey-Suarez I, Pathni A, Fazekas F, Connell M and ___Upadhyaya A___'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/40909567/
+  pdf:
+  journal: biorxiv
+  journalShort: biorxiv
+  journalLink: https://www.biorxiv.org/content/10.1101/2025.08.25.672234v1
+  description: ''
+
+- title: Transcription factors form a ternary complex with NIPBL/MAU2 to localize cohesin at enhancers
+  image:
+  short: NIPBL complex
+  year: 2025
+  authors: 'Fettweis G, Wagh KS, ..., ___Upadhyaya A___,... and Hager GL'
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/40377219/
+  pdf:
+  journal: Nucleic Acids Research
+  journalShort: NAR
+  journalLink: https://academic.oup.com/nar/article/53/9/gkaf415/8133638?login=false
+  description: 'While the cohesin complex is a key player in genome architecture, how it localizes to 
+  specific chromatin sites is not understood. Recently, we and others have proposed that 
+  direct interactions with transcription factors lead to the localization of the cohesin-loader complex
+  (NIPBL/MAU2) within enhancers. Here, we identify two clusters of LxxLL motifs within the NIPBL sequence that 
+  regulate NIPBL dynamics, interactome, and NIPBL-dependent transcriptional programs. One of these clusters 
+  interacts with MAU2 and is necessary for the maintenance of the NIPBL-MAU2 heterodimer. The second cluster binds 
+  specifically to the ligand-binding domains of steroid receptors. For the glucocorticoid receptor (GR), we 
+  examine in detail its interaction surfaces with NIPBL and MAU2. Using AlphaFold2 and molecular docking 
+  algorithms, we uncover a GR-NIPBL-MAU2 ternary complex and describe its importance in GR-dependent gene 
+  regulation. Finally, we show that multiple transcription factors interact with NIPBL-MAU2, likely using 
+  interfaces other than those characterized for GR.'
+  
 - title: The glucocorticoid receptor potentiates aldosterone-induced
           transcription by the mineralocorticoid receptor
   image:
