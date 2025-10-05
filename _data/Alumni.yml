@@ -24,8 +24,16 @@
     University of Maryland in the fall of 2013 and joined our lab a year after.
     His main research interest is how the self-assembly and dynamic structure of cytoskeletal filaments allow cells
     to change shape and regulate many processes. In his free time, Ivan enjoys exploring the forests and jungles
-    in search of animals to capture with his camera. Ivan is currently a Research Associate at UniAndes in Bogota.'
+    in search of animals to capture with his camera. Ivan is currently a Research Associate at Rockefeller University'
 
+- name: Shankar Sivarajan
+  image: /img/members/Shankar_sm.JPG
+  altimage: /img/members/NewMember.jpg
+  position: Postdoc
+  email: ssivaraj (at) umd dot edu
+#  scholar:
+#  twitter: ""
+  description: ''
 
 - name: David Garcia
   image: /img/members/David.jpg
