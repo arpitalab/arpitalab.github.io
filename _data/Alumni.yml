@@ -12,6 +12,15 @@
     enjoys baking and sharing random bits of trivia with anyone within earshot. Kaustubh is a postdoctoral fellow in the Laboratory for
     Receptor Biology and Gene Expression at NCI/NIH.'
 
+- name: Aashli Pathni
+  image: /img/members/Aashli_smJPG.JPG
+  altimage: /img/members/Aashli_sm.JPG
+  position: Postdoc
+  email: apathni (at) terpmail dot umd dot edu
+#  scholar:
+#  twitter: ""
+  description: 'Aashli is from Delhi, India. She graduated in Fall 2024 and after a short postdoc in the lab, has moved to a postdoc at the Fred Hutchinson Cancer Center in Seattle'
+
 - name: Ivan Rey, Ph.D.
   image: /img/members/IR.jpg
   altimage: /img/members/IR.jpg
