@@ -1,15 +1,3 @@
-- title: QuantiTrack: A unified software to study protein dynamics in living cells
-  image:
-  short: QuantiTrack
-  year: 2026
-  authors: 'Ball DA, Wagh KS, Stavreva DA, Hoang L, Schiltz RL, Chari R, Raziuddin R, Mazza D, ___Upadhyaya A___, Hager GL, Karpova T'
-  pubmed: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v2
-  pdf:
-  journal: biorxiv
-  journalShort: biorxiv
-  journalLink: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v2
-  description: ''
-  
 - title: Preventing trogocytosis by cathepsin B inhibition augments CAR T cell function
   image:
   short: Cathepsin B inhibits trogocytosis
