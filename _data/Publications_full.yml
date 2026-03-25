@@ -9,6 +9,18 @@
   journalShort: Signal Transduction and Targeted Therapy
   journalLink: https://www.biorxiv.org/content/10.1101/2024.06.11.598379v3
   description: ''
+
+- title: QuantiTrack: A unified software to study protein dynamics in living cells
+  image:
+  short: QuantiTrack
+  year: 2026
+  authors: 'Ball D, Wagh KS, Stavreva DS, Hoang L, Schiltz RL, Chari R, Razuddin R, Mazza D, ___Upadhyaya A___, Hager GL, and Karpova T'
+  pubmed: 
+  pdf:
+  journal: biorxiv
+  journalShort: biorxiv
+  journalLink: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v2
+  description: ''
   
 - title: Nuclear morphology and chromatin organization modulate T cell cytoskeletal remodeling and immune synapse formation
   image:
