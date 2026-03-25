@@ -8,23 +8,7 @@
   journal: biorxiv
   journalShort: biorxiv
   journalLink: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v2
-  description: 'Linking the spatiotemporal dynamics of proteins in live cells to physiological 
-  functions is a fundamental challenge in biology and robust quantification of protein dynamics 
-  is a major step towards this endeavor. Single molecule tracking (SMT) has emerged as a 
-  powerful technique to investigate protein dynamics at the single molecule level in living cells. 
-  Most SMT analyses require familiarity with biophysical models and programming and the results from 
-  different analyses cannot be easily integrated. To mitigate these shortcomings, we developed QuantiTrack – 
-  a MATLAB-based SMT analysis software that can be operated from a simple graphical user interface. This provides 
-  a much-needed end-to-end solution where a user can load a movie, track single molecules, and perform a range of 
-  analyses. In addition to a detailed user guide with step-by-step instructions, QuantiTrack includes quality 
-  control metrics that can be used to systematically determine tracking parameters. As a practical example, 
-  we address by QuantiTrack a question relevant to hormonal therapy: How does the glucocorticoid receptor (GR), 
-  a hormone-regulated transcription factor (TF), respond to treatment and washout of its cognate hormone. 
-  Hormone washout results in rapid (in minutes) downregulation of GR target genes to basal levels. We observe 
-  dynamics of the Halo tagged GR (Halo-GR) and by integrating several analyses, show that hormone washout results 
-  in a substantially lower bound fraction of GR, reduced occupancy in the mobility state associated with GR activation, 
-  and shorter GR dwell times. These analyses showcase QuantiTrack as a convenient tool for comprehensive SMT analysis 
-  for a wide range of biologists.'
+  description: ''
   
 - title: Preventing trogocytosis by cathepsin B inhibition augments CAR T cell function
   image:
