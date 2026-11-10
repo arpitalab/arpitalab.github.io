@@ -1,17 +1,3 @@
-- name: Kaustabh Wagh
-  image: /img/members/KW.jpg
-  altimage: /img/members/KW.jpg
-  position: Graduate Student
-  email:
-  #  scholar:
-  #  twitter: ""
-  description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
-    more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding
-    the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter
-    proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he is not working, Kaustubh
-    enjoys baking and sharing random bits of trivia with anyone within earshot. Kaustubh is a postdoctoral fellow in the Laboratory for
-    Receptor Biology and Gene Expression at NCI/NIH.'
-
 - name: Aashli Pathni
   image: /img/members/Aashli_smJPG.JPG
   altimage: /img/members/Aashli_sm.JPG
@@ -88,20 +74,6 @@
   #  scholar:
   #  twitter: ""
   description: ''
-
-- name: Kaustabh Wagh
-  image: /img/members/KW.jpg
-  altimage: /img/members/KW.jpg
-  position: Graduate Student
-  email:
-  #  scholar:
-  #  twitter: ""
-  description: 'After graduating with a degree in Engineering Physics from IIT Madras, Kaustabh concluded that he liked physics
-    more than engineering and joined the Physics PhD program at Maryland. As a graduate student, his work focuses on understanding
-    the interplay between the cytoskeleton and early signaling in immune cells. In particular, he is interested in the role of adapter
-    proteins linking the actin and microtubule cytoskeletons in mechanosensation and T cell signaling. When he is not working, Kaustubh
-    enjoys baking and sharing random bits of trivia with anyone within earshot. Kaustubh is a postdoctoral fellow in the Laboratory for
-    Receptor Biology and Gene Expression at NCI/NIH.'
 
 - name: Altug Ozcelikkale, Ph.D.
   image: /img/members/Alumni/Altug.JPG
