@@ -1,17 +1,5 @@
-- title: 'QuantiTrack: A unified software to study protein dynamics in living cells'
-  image:
-  short: QuantiTrack
-  year: 2026
-  authors: 'Ball D, Wagh KS, Stavreva DA, Hoang L, Schiltz RL, Chari R, Raziuddin R, Mazza D, ___Upadhyaya A___, Hager GL and Karpova T'
-  pubmed:
-  pdf:
-  journal: bioRxiv
-  journalShort: bioRxiv
-  journalLink: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v3
-  description: 'Linking the spatiotemporal dynamics of proteins in live cells to biological function is a fundamental challenge in biology. Single molecule tracking (SMT) has emerged as a powerful technique to investigate protein dynamics at the single molecule level. However, SMT analysis often requires expertise in biophysical modeling and programming, and integrating results from different analyses can be challenging. To address these barriers, we developed QuantiTrack: a MATLAB-based SMT analysis software with a simple graphical user interface. This provides a much-needed end-to-end solution where a user can load a movie, detect and track single molecules, and perform complementary downstream analyses within a standardized workflow. QuantiTrack includes quantitative metrics for selecting detection and tracking parameters and troubleshooting experimental design, and includes a detailed step-by-step User Guide. We used simulations to demonstrate how signal intensity, labeling density, and motion blur affect detection and tracking fidelity. Using multi-state simulations, we further benchmarked complementary methods to identify distinct mobility states from heterogeneous trajectory populations. Finally, we applied QuantiTrack to real experimental data where we address how the glucocorticoid receptor (GR), a hormone-regulated transcription factor, responds to treatment and washout of its cognate hormone. Hormone washout results in rapid (in minutes) downregulation of GR target genes to basal levels. By integrating complementary analyses within QuantiTrack, we showed that hormone washout substantially reduced the bound fraction of GR, its occupancy in the mobility state associated with GR activation, and dwell times. Together, these analyses showcase QuantiTrack as an integrated platform for extracting biologically meaningful measurements from single molecule trajectories.'
-
 - title: Nuclear morphology and chromatin organization modulate T cell cytoskeletal remodeling and immune synapse formation
-  image:
+  image: /img/publications/Rey-Suarez_nuclear.png
   short: Nuclear deformation during T cell activation
   year: 2025
   authors: 'Rey-Suarez I, Pathni A, Fazekas F, Connell M and ___Upadhyaya A___'
