@@ -22,17 +22,17 @@
   journalLink: https://www.biorxiv.org/content/10.64898/2026.02.19.706877v3
   description: ''
   
-- title: Nuclear morphology and chromatin organization modulate T cell cytoskeletal remodeling and immune synapse formation
+- title: Nuclear morphology and chromatin compaction modulate T cell cytoskeletal remodeling and immune synapse formation
   image: /img/publications/Rey-Suarez_nuclear.png
   short: Nuclear deformation during T cell activation
-  year: 2025
+  year: 2026
   authors: 'Rey-Suarez I, Pathni A, Fazekas F, Connell M and ___Upadhyaya A___'
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/40909567/
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/42418713/
   pdf:
-  journal: biorxiv
-  journalShort: biorxiv
-  journalLink: https://www.biorxiv.org/content/10.1101/2025.08.25.672234v1
-  description: ''
+  journal: Molecular Biology of the Cell
+  journalShort: MBoC
+  journalLink: https://doi.org/10.1091/mbc.E25-10-0487
+  description: 'T cell activation induces a rapid reorganization of the actin cytoskeleton, facilitating cell spreading on antigen-presenting cells (APCs). As the nucleus, the cell''s largest organelle, constrains cell shape changes, its mechanical properties, governed by chromatin compaction and heterochromatin density, are likely to play a critical role in T cell spreading and activation. However, the contribution of nuclear mechanics to T cell activation remains elusive. Here, we demonstrate that T cell spreading is accompanied by nuclear deformation and increased chromatin compaction. Reducing chromatin compaction, which is known to soften the nucleus, enhances cell spread area and nuclear deformation but decreases F-actin accumulation and peripheral enrichment at the immune synapse. Conversely, enhancing chromatin compaction restricts spreading and deformation but promotes peripheral F-actin organization. This reveals a reciprocal relationship between chromatin compaction and cytoskeletal organization. We identify SUN proteins and myosin as key mediators through which chromatin compaction modulates actin morphology and cell shape, enabling T cells to adapt to antigen-presenting surfaces of varying stiffness. These findings underscore the pivotal role of chromatin compaction in T cell activation, highlighting the mechanical interplay between the nucleus and cytoskeleton, and suggesting novel insights into T cell mechano-responsiveness.'
 
 - title: Transcription factors form a ternary complex with NIPBL/MAU2 to localize cohesin at enhancers
   image:

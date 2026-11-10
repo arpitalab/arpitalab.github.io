@@ -1,14 +1,14 @@
-- title: Nuclear morphology and chromatin organization modulate T cell cytoskeletal remodeling and immune synapse formation
+- title: Nuclear morphology and chromatin compaction modulate T cell cytoskeletal remodeling and immune synapse formation
   image: /img/publications/Rey-Suarez_nuclear.png
   short: Nuclear deformation during T cell activation
-  year: 2025
+  year: 2026
   authors: 'Rey-Suarez I, Pathni A, Fazekas F, Connell M and ___Upadhyaya A___'
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/40909567/
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/42418713/
   pdf:
-  journal: bioRxiv
-  journalShort: bioRxiv
-  journalLink: https://www.biorxiv.org/content/10.1101/2025.08.25.672234v1
-  description: 'T cell activation is characterized by rapid reorganization of the actin cytoskeleton and cell spreading on the antigen presenting cell. The T cell nucleus occupies a large fraction of the cell volume, and its mechanical properties are likely to act as a key determinant of activation. However, the contribution of nuclear mechanics to T cell spreading and activation is not well understood. Mechanical rigidity of lymphocyte nuclei is conferred by chromatin compaction and dense packing of heterochromatin. We find that nuclear deformation and increased chromatin compaction accompany T cell spreading, in T cells. Reducing chromatin compaction leads to increased cell spread area and nuclear deformation, while diminishing accumulation and peripheral enrichment of F-actin at the immune synapse. In contrast, enhanced chromatin compaction reduced spread area and nuclear deformation, which was accompanied by increased peripheral F-actin organization at the immune synapse. These findings suggest a reciprocal interaction between chromatin compaction and actin cytoskeletal organization. We identified SUN proteins and myosin as critical elements through which chromatin compaction orchestrates actin morphology and cell shape, facilitating T cell adaptation to antigen-presenting surfaces of varying stiffness. These results emphasize the crucial role of chromatin compaction in T cell activation, underlining the mechanical relationship between the nucleus and the cytoskeleton during immune responses, and suggest new avenues for understanding T cell mechano-responsiveness.'
+  journal: Molecular Biology of the Cell
+  journalShort: MBoC
+  journalLink: https://doi.org/10.1091/mbc.E25-10-0487
+  description: 'T cell activation induces a rapid reorganization of the actin cytoskeleton, facilitating cell spreading on antigen-presenting cells (APCs). As the nucleus, the cell''s largest organelle, constrains cell shape changes, its mechanical properties, governed by chromatin compaction and heterochromatin density, are likely to play a critical role in T cell spreading and activation. However, the contribution of nuclear mechanics to T cell activation remains elusive. Here, we demonstrate that T cell spreading is accompanied by nuclear deformation and increased chromatin compaction. Reducing chromatin compaction, which is known to soften the nucleus, enhances cell spread area and nuclear deformation but decreases F-actin accumulation and peripheral enrichment at the immune synapse. Conversely, enhancing chromatin compaction restricts spreading and deformation but promotes peripheral F-actin organization. This reveals a reciprocal relationship between chromatin compaction and cytoskeletal organization. We identify SUN proteins and myosin as key mediators through which chromatin compaction modulates actin morphology and cell shape, enabling T cells to adapt to antigen-presenting surfaces of varying stiffness. These findings underscore the pivotal role of chromatin compaction in T cell activation, highlighting the mechanical interplay between the nucleus and cytoskeleton, and suggesting novel insights into T cell mechano-responsiveness.'
 
 - title: Dynamic switching of transcriptional regulators between two distinct low-mobility chromatin states
   image: /img/publications/KW_SMT-2_model.png
